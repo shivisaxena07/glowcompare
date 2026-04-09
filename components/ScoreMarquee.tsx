@@ -3,12 +3,18 @@ const ITEM =
 
 export function ScoreMarquee() {
   return (
-    <div className="group overflow-hidden border-y-2 border-glow-black bg-glow-primary">
+    <div className="overflow-hidden border-y-2 border-glow-black bg-glow-primary">
+      <style>{`
+        @keyframes marquee {
+          from { transform: translateX(0); }
+          to   { transform: translateX(-50%); }
+        }
+        .marquee-inner {
+          animation: marquee 28s linear infinite;
+        }
+      `}</style>
       {/* Inner strip — 4 copies, animate -50% for a seamless loop */}
-      <div
-        className="flex whitespace-nowrap py-2 group-hover:[animation-play-state:paused]"
-        style={{ animation: 'marquee 28s linear infinite' }}
-      >
+      <div className="marquee-inner flex whitespace-nowrap py-2">
         {[0, 1, 2, 3].map((i) => (
           <span
             key={i}
