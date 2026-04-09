@@ -1,0 +1,1222 @@
+[
+  {
+    "id": "a1b2c3d4-0001-4e5f-8a9b-000000000001",
+    "name": "Niacinamide 10% + Zinc 1% Serum",
+    "brand": "Minimalist",
+    "category": "skincare",
+    "sub_category": "serum",
+    "description": "A lightweight, water-based serum with 10% Niacinamide and 1% Zinc PCA that visibly reduces blemishes, controls sebum production, and minimises the appearance of pores. Suitable for all skin types including sensitive skin.",
+    "image_url": "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?w=400&h=400&fit=crop&q=80",
+    "ingredients_summary": "10% Niacinamide brightens and reduces pore appearance. 1% Zinc PCA controls excess oil and targets blemishes. Allantoin soothes irritation.",
+    "trending_score": 92.5,
+    "platform_prices": [
+      {
+        "platform": "nykaa",
+        "price": 599,
+        "original_price": 699,
+        "discount_pct": 14.3,
+        "url": "https://www.nykaa.com/minimalist-niacinamide-10-zinc-1-serum/p/123001",
+        "availability": true
+      },
+      {
+        "platform": "tira",
+        "price": 619,
+        "original_price": 699,
+        "discount_pct": 11.4,
+        "url": "https://www.tirabeauty.com/minimalist-niacinamide-serum/123001",
+        "availability": true
+      },
+      {
+        "platform": "amazon",
+        "price": 579,
+        "original_price": 699,
+        "discount_pct": 17.2,
+        "url": "https://www.amazon.in/dp/B08MINIMALIST01",
+        "availability": true
+      },
+      {
+        "platform": "flipkart",
+        "price": 589,
+        "original_price": 699,
+        "discount_pct": 15.7,
+        "url": "https://www.flipkart.com/minimalist-niacinamide/p/minm01",
+        "availability": true
+      },
+      {
+        "platform": "purplle",
+        "price": 599,
+        "original_price": 699,
+        "discount_pct": 14.3,
+        "url": "https://www.purplle.com/minimalist-niacinamide-10-zinc-1/p/123001",
+        "availability": true
+      }
+    ],
+    "trending_signals": {
+      "social_score": 95,
+      "bestseller_score": 90,
+      "rating_score": 88,
+      "search_score": 92,
+      "editorial_score": 98,
+      "composite_score": 92.5
+    }
+  },
+  {
+    "id": "a1b2c3d4-0002-4e5f-8a9b-000000000002",
+    "name": "Vitamin C 20% Face Serum",
+    "brand": "Minimalist",
+    "category": "skincare",
+    "sub_category": "serum",
+    "description": "A potent 20% Vitamin C serum with Vitamin E and Ferulic Acid that brightens skin tone, fades dark spots, and protects against environmental damage. Best used in the morning before sunscreen.",
+    "image_url": "https://images.unsplash.com/photo-1570554886111-e80fcca6a029?w=400&h=400&fit=crop&q=80",
+    "ingredients_summary": "20% Ascorbic Acid (Vitamin C) brightens and evens skin tone. Vitamin E and Ferulic Acid boost stability and antioxidant protection.",
+    "trending_score": 84.25,
+    "platform_prices": [
+      {
+        "platform": "nykaa",
+        "price": 649,
+        "original_price": 749,
+        "discount_pct": 13.4,
+        "url": "https://www.nykaa.com/minimalist-vitamin-c-20-serum/p/123002",
+        "availability": true
+      },
+      {
+        "platform": "tira",
+        "price": 669,
+        "original_price": 749,
+        "discount_pct": 10.7,
+        "url": "https://www.tirabeauty.com/minimalist-vitamin-c-serum/123002",
+        "availability": true
+      },
+      {
+        "platform": "amazon",
+        "price": 629,
+        "original_price": 749,
+        "discount_pct": 16,
+        "url": "https://www.amazon.in/dp/B08MINIMALIST02",
+        "availability": true
+      },
+      {
+        "platform": "flipkart",
+        "price": 639,
+        "original_price": 749,
+        "discount_pct": 14.7,
+        "url": "https://www.flipkart.com/minimalist-vitamin-c-20/p/minm02",
+        "availability": true
+      },
+      {
+        "platform": "purplle",
+        "price": 655,
+        "original_price": 749,
+        "discount_pct": 12.6,
+        "url": "https://www.purplle.com/minimalist-vitamin-c-20-serum/p/123002",
+        "availability": false
+      }
+    ],
+    "trending_signals": {
+      "social_score": 82,
+      "bestseller_score": 85,
+      "rating_score": 84,
+      "search_score": 86,
+      "editorial_score": 85,
+      "composite_score": 84.25
+    }
+  },
+  {
+    "id": "a1b2c3d4-0003-4e5f-8a9b-000000000003",
+    "name": "Watermelon Hyaluronic Moisturizer",
+    "brand": "Dot & Key",
+    "category": "skincare",
+    "sub_category": "moisturiser",
+    "description": "A refreshing, lightweight gel-cream moisturiser infused with watermelon extract and hyaluronic acid. Provides intense hydration without greasiness, leaving skin plump and dewy. Perfect for oily and combination skin types.",
+    "image_url": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=400&h=400&fit=crop&q=80",
+    "ingredients_summary": "Watermelon Extract is packed with vitamins A, B, and C to nourish. Hyaluronic Acid provides deep, long-lasting hydration. Niacinamide brightens and refines pores.",
+    "trending_score": 78.5,
+    "platform_prices": [
+      {
+        "platform": "nykaa",
+        "price": 425,
+        "original_price": 595,
+        "discount_pct": 28.6,
+        "url": "https://www.nykaa.com/dot-key-watermelon-moisturizer/p/123003",
+        "availability": true
+      },
+      {
+        "platform": "tira",
+        "price": 449,
+        "original_price": 595,
+        "discount_pct": 24.5,
+        "url": "https://www.tirabeauty.com/dot-key-watermelon/123003",
+        "availability": true
+      },
+      {
+        "platform": "amazon",
+        "price": 399,
+        "original_price": 595,
+        "discount_pct": 33,
+        "url": "https://www.amazon.in/dp/B08DOTKEY03",
+        "availability": true
+      },
+      {
+        "platform": "flipkart",
+        "price": 419,
+        "original_price": 595,
+        "discount_pct": 29.6,
+        "url": "https://www.flipkart.com/dot-key-watermelon/p/dk03",
+        "availability": true
+      },
+      {
+        "platform": "purplle",
+        "price": 430,
+        "original_price": 595,
+        "discount_pct": 27.7,
+        "url": "https://www.purplle.com/dot-key-watermelon-hyaluronic/p/123003",
+        "availability": true
+      }
+    ],
+    "trending_signals": {
+      "social_score": 80,
+      "bestseller_score": 75,
+      "rating_score": 82,
+      "search_score": 76,
+      "editorial_score": 79,
+      "composite_score": 78.5
+    }
+  },
+  {
+    "id": "a1b2c3d4-0004-4e5f-8a9b-000000000004",
+    "name": "Super Light Gel Moisturiser",
+    "brand": "Pond's",
+    "category": "skincare",
+    "sub_category": "moisturiser",
+    "description": "An ultra-lightweight gel moisturiser that absorbs instantly without leaving any sticky residue. Formulated with Hyaluron Booster that attracts and locks in moisture for 24-hour hydration. Great for oily and acne-prone skin.",
+    "image_url": "https://images.unsplash.com/photo-1612817288484-6f916006741a?w=400&h=400&fit=crop&q=80",
+    "ingredients_summary": "Hyaluron Booster (Hyaluronic Acid) provides 24-hour deep hydration. Vitamin E acts as an antioxidant. Water-gel base is non-comedogenic and oil-free.",
+    "trending_score": 71,
+    "platform_prices": [
+      {
+        "platform": "nykaa",
+        "price": 179,
+        "original_price": 229,
+        "discount_pct": 21.8,
+        "url": "https://www.nykaa.com/ponds-super-light-gel/p/123004",
+        "availability": true
+      },
+      {
+        "platform": "tira",
+        "price": 189,
+        "original_price": 229,
+        "discount_pct": 17.5,
+        "url": "https://www.tirabeauty.com/ponds-light-gel/123004",
+        "availability": true
+      },
+      {
+        "platform": "amazon",
+        "price": 169,
+        "original_price": 229,
+        "discount_pct": 26.2,
+        "url": "https://www.amazon.in/dp/B08PONDS04",
+        "availability": true
+      },
+      {
+        "platform": "flipkart",
+        "price": 174,
+        "original_price": 229,
+        "discount_pct": 24,
+        "url": "https://www.flipkart.com/ponds-super-light-gel/p/pds04",
+        "availability": true
+      },
+      {
+        "platform": "purplle",
+        "price": 179,
+        "original_price": 229,
+        "discount_pct": 21.8,
+        "url": "https://www.purplle.com/ponds-super-light-gel/p/123004",
+        "availability": true
+      }
+    ],
+    "trending_signals": {
+      "social_score": 65,
+      "bestseller_score": 80,
+      "rating_score": 75,
+      "search_score": 68,
+      "editorial_score": 60,
+      "composite_score": 71
+    }
+  },
+  {
+    "id": "a1b2c3d4-0005-4e5f-8a9b-000000000005",
+    "name": "Ubtan Face Wash",
+    "brand": "Mamaearth",
+    "category": "skincare",
+    "sub_category": "cleanser",
+    "description": "A gentle face wash inspired by traditional Indian Ubtan. Formulated with natural turmeric, saffron, and walnut to remove impurities while brightening skin tone. Free from sulphates, parabens, and artificial fragrance.",
+    "image_url": "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=400&h=400&fit=crop&q=80",
+    "ingredients_summary": "Turmeric has anti-inflammatory and brightening properties. Saffron evens skin tone and adds a natural glow. Walnut acts as a gentle exfoliant to remove dead skin cells.",
+    "trending_score": 76.25,
+    "platform_prices": [
+      {
+        "platform": "nykaa",
+        "price": 249,
+        "original_price": 299,
+        "discount_pct": 16.7,
+        "url": "https://www.nykaa.com/mamaearth-ubtan-face-wash/p/123005",
+        "availability": true
+      },
+      {
+        "platform": "tira",
+        "price": 259,
+        "original_price": 299,
+        "discount_pct": 13.4,
+        "url": "https://www.tirabeauty.com/mamaearth-ubtan/123005",
+        "availability": true
+      },
+      {
+        "platform": "amazon",
+        "price": 239,
+        "original_price": 299,
+        "discount_pct": 20.1,
+        "url": "https://www.amazon.in/dp/B08MAMAEARTH05",
+        "availability": true
+      },
+      {
+        "platform": "flipkart",
+        "price": 244,
+        "original_price": 299,
+        "discount_pct": 18.4,
+        "url": "https://www.flipkart.com/mamaearth-ubtan/p/me05",
+        "availability": true
+      },
+      {
+        "platform": "purplle",
+        "price": 249,
+        "original_price": 299,
+        "discount_pct": 16.7,
+        "url": "https://www.purplle.com/mamaearth-ubtan-face-wash/p/123005",
+        "availability": true
+      }
+    ],
+    "trending_signals": {
+      "social_score": 78,
+      "bestseller_score": 80,
+      "rating_score": 72,
+      "search_score": 75,
+      "editorial_score": 70,
+      "composite_score": 76.25
+    }
+  },
+  {
+    "id": "a1b2c3d4-0006-4e5f-8a9b-000000000006",
+    "name": "Gentle Skin Cleanser",
+    "brand": "Cetaphil",
+    "category": "skincare",
+    "sub_category": "cleanser",
+    "description": "A mild, soap-free cleanser clinically proven to gently cleanse without stripping the skin's natural moisture. Suitable for sensitive, dry, and combination skin. Dermatologist-recommended for daily use.",
+    "image_url": "https://images.unsplash.com/photo-1601049676869-702ea24cfd58?w=400&h=400&fit=crop&q=80",
+    "ingredients_summary": "Glycerin is a powerful humectant that retains moisture. Niacinamide strengthens the skin barrier. Soap-free and fragrance-free formula is ideal for sensitive skin.",
+    "trending_score": 68.75,
+    "platform_prices": [
+      {
+        "platform": "nykaa",
+        "price": 399,
+        "original_price": 450,
+        "discount_pct": 11.3,
+        "url": "https://www.nykaa.com/cetaphil-gentle-skin-cleanser/p/123006",
+        "availability": true
+      },
+      {
+        "platform": "tira",
+        "price": 419,
+        "original_price": 450,
+        "discount_pct": 6.9,
+        "url": "https://www.tirabeauty.com/cetaphil-cleanser/123006",
+        "availability": true
+      },
+      {
+        "platform": "amazon",
+        "price": 379,
+        "original_price": 450,
+        "discount_pct": 15.8,
+        "url": "https://www.amazon.in/dp/B08CETAPHIL06",
+        "availability": true
+      },
+      {
+        "platform": "flipkart",
+        "price": 389,
+        "original_price": 450,
+        "discount_pct": 13.6,
+        "url": "https://www.flipkart.com/cetaphil-gentle-cleanser/p/ctp06",
+        "availability": true
+      },
+      {
+        "platform": "purplle",
+        "price": 399,
+        "original_price": 450,
+        "discount_pct": 11.3,
+        "url": "https://www.purplle.com/cetaphil-gentle-skin-cleanser/p/123006",
+        "availability": true
+      }
+    ],
+    "trending_signals": {
+      "social_score": 60,
+      "bestseller_score": 78,
+      "rating_score": 80,
+      "search_score": 65,
+      "editorial_score": 70,
+      "composite_score": 68.75
+    }
+  },
+  {
+    "id": "a1b2c3d4-0007-4e5f-8a9b-000000000007",
+    "name": "Ultra Matte Dry Touch Sunscreen SPF 50",
+    "brand": "Re'equil",
+    "category": "skincare",
+    "sub_category": "sunscreen",
+    "description": "A lightweight, dry-touch sunscreen with SPF 50 PA+++ that leaves no white cast. Provides broad-spectrum UVA/UVB protection while controlling shine. Ideal for Indian skin tones and humid weather conditions.",
+    "image_url": "https://images.unsplash.com/photo-1616394584738-fc6e612e71b9?w=400&h=400&fit=crop&q=80",
+    "ingredients_summary": "Hybrid filter system combines chemical and physical UV blockers for full-spectrum protection. Dimethicone creates a matte, dry-touch finish. Allantoin soothes sun-exposed skin.",
+    "trending_score": 88,
+    "platform_prices": [
+      {
+        "platform": "nykaa",
+        "price": 495,
+        "original_price": 595,
+        "discount_pct": 16.8,
+        "url": "https://www.nykaa.com/reequil-ultra-matte-sunscreen-spf50/p/123007",
+        "availability": true
+      },
+      {
+        "platform": "tira",
+        "price": 515,
+        "original_price": 595,
+        "discount_pct": 13.4,
+        "url": "https://www.tirabeauty.com/reequil-sunscreen/123007",
+        "availability": true
+      },
+      {
+        "platform": "amazon",
+        "price": 479,
+        "original_price": 595,
+        "discount_pct": 19.5,
+        "url": "https://www.amazon.in/dp/B08REEQUIL07",
+        "availability": true
+      },
+      {
+        "platform": "flipkart",
+        "price": 489,
+        "original_price": 595,
+        "discount_pct": 17.8,
+        "url": "https://www.flipkart.com/reequil-ultra-matte/p/req07",
+        "availability": true
+      },
+      {
+        "platform": "purplle",
+        "price": 499,
+        "original_price": 595,
+        "discount_pct": 16.1,
+        "url": "https://www.purplle.com/reequil-ultra-matte-sunscreen/p/123007",
+        "availability": true
+      }
+    ],
+    "trending_signals": {
+      "social_score": 90,
+      "bestseller_score": 85,
+      "rating_score": 88,
+      "search_score": 90,
+      "editorial_score": 85,
+      "composite_score": 88
+    }
+  },
+  {
+    "id": "a1b2c3d4-0008-4e5f-8a9b-000000000008",
+    "name": "Sun Expert SPF 50 PA+++ Sunscreen",
+    "brand": "Lakme",
+    "category": "skincare",
+    "sub_category": "sunscreen",
+    "description": "A non-greasy, everyday sunscreen with SPF 50 PA+++ that shields skin from UVA and UVB rays. Light texture absorbs quickly and works well under makeup. Enriched with Vitamin E for added skin nourishment.",
+    "image_url": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=400&h=400&fit=crop&q=80",
+    "ingredients_summary": "SPF 50 PA+++ provides both UVA and UVB broad-spectrum protection. Vitamin E acts as an antioxidant, protecting against free radical damage from UV rays.",
+    "trending_score": 65.5,
+    "platform_prices": [
+      {
+        "platform": "nykaa",
+        "price": 279,
+        "original_price": 325,
+        "discount_pct": 14.2,
+        "url": "https://www.nykaa.com/lakme-sun-expert-spf50/p/123008",
+        "availability": true
+      },
+      {
+        "platform": "tira",
+        "price": 289,
+        "original_price": 325,
+        "discount_pct": 11.1,
+        "url": "https://www.tirabeauty.com/lakme-sun-expert/123008",
+        "availability": true
+      },
+      {
+        "platform": "amazon",
+        "price": 259,
+        "original_price": 325,
+        "discount_pct": 20.3,
+        "url": "https://www.amazon.in/dp/B08LAKME08",
+        "availability": true
+      },
+      {
+        "platform": "flipkart",
+        "price": 269,
+        "original_price": 325,
+        "discount_pct": 17.2,
+        "url": "https://www.flipkart.com/lakme-sun-expert/p/lkm08",
+        "availability": true
+      },
+      {
+        "platform": "purplle",
+        "price": 275,
+        "original_price": 325,
+        "discount_pct": 15.4,
+        "url": "https://www.purplle.com/lakme-sun-expert-spf50/p/123008",
+        "availability": true
+      }
+    ],
+    "trending_signals": {
+      "social_score": 60,
+      "bestseller_score": 72,
+      "rating_score": 68,
+      "search_score": 65,
+      "editorial_score": 58,
+      "composite_score": 65.5
+    }
+  },
+  {
+    "id": "a1b2c3d4-0009-4e5f-8a9b-000000000009",
+    "name": "Green Tea Alcohol-Free Toner",
+    "brand": "Plum",
+    "category": "skincare",
+    "sub_category": "toner",
+    "description": "A refreshing, alcohol-free toner with green tea extract that controls oil, tightens pores, and preps skin for the next steps in your routine. Vegan and 100% cruelty-free. Great for oily and acne-prone skin.",
+    "image_url": "https://images.unsplash.com/photo-1520923642038-b4259acecbd7?w=400&h=400&fit=crop&q=80",
+    "ingredients_summary": "Green Tea Extract is rich in antioxidants that fight acne-causing bacteria and reduce inflammation. Glycolic Acid gently exfoliates and refines pore appearance. No alcohol, no parabens.",
+    "trending_score": 73.75,
+    "platform_prices": [
+      {
+        "platform": "nykaa",
+        "price": 279,
+        "original_price": 349,
+        "discount_pct": 20.1,
+        "url": "https://www.nykaa.com/plum-green-tea-toner/p/123009",
+        "availability": true
+      },
+      {
+        "platform": "tira",
+        "price": 295,
+        "original_price": 349,
+        "discount_pct": 15.5,
+        "url": "https://www.tirabeauty.com/plum-green-tea-toner/123009",
+        "availability": true
+      },
+      {
+        "platform": "amazon",
+        "price": 265,
+        "original_price": 349,
+        "discount_pct": 24.1,
+        "url": "https://www.amazon.in/dp/B08PLUM09",
+        "availability": true
+      },
+      {
+        "platform": "flipkart",
+        "price": 272,
+        "original_price": 349,
+        "discount_pct": 22.1,
+        "url": "https://www.flipkart.com/plum-green-tea-toner/p/plm09",
+        "availability": true
+      },
+      {
+        "platform": "purplle",
+        "price": 279,
+        "original_price": 349,
+        "discount_pct": 20.1,
+        "url": "https://www.purplle.com/plum-green-tea-toner/p/123009",
+        "availability": true
+      }
+    ],
+    "trending_signals": {
+      "social_score": 72,
+      "bestseller_score": 76,
+      "rating_score": 78,
+      "search_score": 70,
+      "editorial_score": 72,
+      "composite_score": 73.75
+    }
+  },
+  {
+    "id": "a1b2c3d4-0010-4e5f-8a9b-000000000010",
+    "name": "Peptide Eye Cream",
+    "brand": "The Ordinary",
+    "category": "skincare",
+    "sub_category": "eye_cream",
+    "description": "A targeted eye cream formulated with a multi-peptide blend that reduces the appearance of fine lines, crow's feet, and puffiness around the eye area. Lightweight formula absorbs fast without migration.",
+    "image_url": "https://images.unsplash.com/photo-1556228453-efd6c1ff04f6?w=400&h=400&fit=crop&q=80",
+    "ingredients_summary": "Argireline (Acetyl Hexapeptide-3) relaxes facial muscles to reduce expression lines. Leuphasyl works synergistically with Argireline. Hyaluronic Acid plumps and hydrates the delicate eye area.",
+    "trending_score": 80.5,
+    "platform_prices": [
+      {
+        "platform": "nykaa",
+        "price": 1150,
+        "original_price": 1350,
+        "discount_pct": 14.8,
+        "url": "https://www.nykaa.com/the-ordinary-peptide-eye-cream/p/123010",
+        "availability": true
+      },
+      {
+        "platform": "tira",
+        "price": 1195,
+        "original_price": 1350,
+        "discount_pct": 11.5,
+        "url": "https://www.tirabeauty.com/ordinary-eye-cream/123010",
+        "availability": true
+      },
+      {
+        "platform": "amazon",
+        "price": 1099,
+        "original_price": 1350,
+        "discount_pct": 18.6,
+        "url": "https://www.amazon.in/dp/B08ORDINARY10",
+        "availability": true
+      },
+      {
+        "platform": "flipkart",
+        "price": 1125,
+        "original_price": 1350,
+        "discount_pct": 16.7,
+        "url": "https://www.flipkart.com/ordinary-peptide-eye-cream/p/ord10",
+        "availability": true
+      },
+      {
+        "platform": "purplle",
+        "price": 1150,
+        "original_price": 1350,
+        "discount_pct": 14.8,
+        "url": "https://www.purplle.com/the-ordinary-peptide-eye-cream/p/123010",
+        "availability": false
+      }
+    ],
+    "trending_signals": {
+      "social_score": 82,
+      "bestseller_score": 78,
+      "rating_score": 85,
+      "search_score": 80,
+      "editorial_score": 75,
+      "composite_score": 80.5
+    }
+  },
+  {
+    "id": "a1b2c3d4-0011-4e5f-8a9b-000000000011",
+    "name": "Hyaluronic Acid 2% + B5 Serum",
+    "brand": "The Ordinary",
+    "category": "skincare",
+    "sub_category": "serum",
+    "description": "A hydration support formula combining low, medium, and high molecular weight hyaluronic acid with Pro-Vitamin B5. Visibly plumps skin and reduces the appearance of dry fine lines. Suitable for all skin types.",
+    "image_url": "https://images.unsplash.com/photo-1583241475880-083f84372725?w=400&h=400&fit=crop&q=80",
+    "ingredients_summary": "Multi-weight Hyaluronic Acid (2%) hydrates at multiple layers of the skin. Pro-Vitamin B5 soothes and smoothens. This fragrance-free formula is ideal for all skin types, including sensitive.",
+    "trending_score": 82,
+    "platform_prices": [
+      {
+        "platform": "nykaa",
+        "price": 699,
+        "original_price": 850,
+        "discount_pct": 17.8,
+        "url": "https://www.nykaa.com/the-ordinary-hyaluronic-acid-2-b5/p/123011",
+        "availability": true
+      },
+      {
+        "platform": "tira",
+        "price": 725,
+        "original_price": 850,
+        "discount_pct": 14.7,
+        "url": "https://www.tirabeauty.com/ordinary-ha-b5/123011",
+        "availability": true
+      },
+      {
+        "platform": "amazon",
+        "price": 675,
+        "original_price": 850,
+        "discount_pct": 20.6,
+        "url": "https://www.amazon.in/dp/B08ORDINARY11",
+        "availability": true
+      },
+      {
+        "platform": "flipkart",
+        "price": 685,
+        "original_price": 850,
+        "discount_pct": 19.4,
+        "url": "https://www.flipkart.com/ordinary-hyaluronic-acid/p/ord11",
+        "availability": true
+      },
+      {
+        "platform": "purplle",
+        "price": 699,
+        "original_price": 850,
+        "discount_pct": 17.8,
+        "url": "https://www.purplle.com/the-ordinary-hyaluronic-acid-b5/p/123011",
+        "availability": true
+      }
+    ],
+    "trending_signals": {
+      "social_score": 85,
+      "bestseller_score": 80,
+      "rating_score": 84,
+      "search_score": 82,
+      "editorial_score": 78,
+      "composite_score": 82
+    }
+  },
+  {
+    "id": "a1b2c3d4-0012-4e5f-8a9b-000000000012",
+    "name": "AHA BHA Exfoliating Cleanser",
+    "brand": "Plum",
+    "category": "skincare",
+    "sub_category": "cleanser",
+    "description": "A gentle yet effective exfoliating cleanser with AHA and BHA acids that clears clogged pores, reduces blackheads, and reveals brighter skin. Made with 100% vegan ingredients, free from SLS and parabens.",
+    "image_url": "https://images.unsplash.com/photo-1599305090598-fe179d501227?w=400&h=400&fit=crop&q=80",
+    "ingredients_summary": "Glycolic Acid (AHA) exfoliates dead skin cells for a brighter complexion. Salicylic Acid (BHA) penetrates pores to clear congestion and reduce breakouts. Green Tea soothes post-cleanse.",
+    "trending_score": 69,
+    "platform_prices": [
+      {
+        "platform": "nykaa",
+        "price": 319,
+        "original_price": 399,
+        "discount_pct": 20.1,
+        "url": "https://www.nykaa.com/plum-aha-bha-cleanser/p/123012",
+        "availability": true
+      },
+      {
+        "platform": "tira",
+        "price": 335,
+        "original_price": 399,
+        "discount_pct": 16,
+        "url": "https://www.tirabeauty.com/plum-aha-bha/123012",
+        "availability": true
+      },
+      {
+        "platform": "amazon",
+        "price": 299,
+        "original_price": 399,
+        "discount_pct": 25.1,
+        "url": "https://www.amazon.in/dp/B08PLUM12",
+        "availability": true
+      },
+      {
+        "platform": "flipkart",
+        "price": 309,
+        "original_price": 399,
+        "discount_pct": 22.6,
+        "url": "https://www.flipkart.com/plum-aha-bha-cleanser/p/plm12",
+        "availability": false
+      },
+      {
+        "platform": "purplle",
+        "price": 319,
+        "original_price": 399,
+        "discount_pct": 20.1,
+        "url": "https://www.purplle.com/plum-aha-bha-cleanser/p/123012",
+        "availability": true
+      }
+    ],
+    "trending_signals": {
+      "social_score": 68,
+      "bestseller_score": 70,
+      "rating_score": 74,
+      "search_score": 65,
+      "editorial_score": 65,
+      "composite_score": 69
+    }
+  },
+  {
+    "id": "a1b2c3d4-0013-4e5f-8a9b-000000000013",
+    "name": "Fit Me Matte + Poreless Foundation",
+    "brand": "Maybelline",
+    "category": "makeup",
+    "sub_category": "foundation",
+    "description": "A full-coverage, shine-free foundation with micro-powders that blur pores for a natural matte finish. Available in 40 shades to match a wide range of Indian skin tones. Lightweight feel that lasts all day.",
+    "image_url": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?w=400&h=400&fit=crop&q=80",
+    "ingredients_summary": "Micro-powder technology absorbs excess oil and blurs the appearance of pores. Buildable coverage formula contains skin-conditioning agents to prevent the dry, cakey look.",
+    "trending_score": 86.25,
+    "platform_prices": [
+      {
+        "platform": "nykaa",
+        "price": 395,
+        "original_price": 495,
+        "discount_pct": 20.2,
+        "url": "https://www.nykaa.com/maybelline-fit-me-foundation/p/123013",
+        "availability": true
+      },
+      {
+        "platform": "tira",
+        "price": 415,
+        "original_price": 495,
+        "discount_pct": 16.2,
+        "url": "https://www.tirabeauty.com/maybelline-fit-me/123013",
+        "availability": true
+      },
+      {
+        "platform": "amazon",
+        "price": 375,
+        "original_price": 495,
+        "discount_pct": 24.2,
+        "url": "https://www.amazon.in/dp/B08MAYBELLINE13",
+        "availability": true
+      },
+      {
+        "platform": "flipkart",
+        "price": 385,
+        "original_price": 495,
+        "discount_pct": 22.2,
+        "url": "https://www.flipkart.com/maybelline-fit-me-matte/p/mbl13",
+        "availability": true
+      },
+      {
+        "platform": "purplle",
+        "price": 399,
+        "original_price": 495,
+        "discount_pct": 19.4,
+        "url": "https://www.purplle.com/maybelline-fit-me-matte-poreless/p/123013",
+        "availability": true
+      }
+    ],
+    "trending_signals": {
+      "social_score": 88,
+      "bestseller_score": 90,
+      "rating_score": 84,
+      "search_score": 85,
+      "editorial_score": 80,
+      "composite_score": 86.25
+    }
+  },
+  {
+    "id": "a1b2c3d4-0014-4e5f-8a9b-000000000014",
+    "name": "True Match Super Blendable Foundation",
+    "brand": "L'Oreal Paris",
+    "category": "makeup",
+    "sub_category": "foundation",
+    "description": "A skin-like foundation with True Match technology that perfectly adapts to your skin tone and undertone. Medium-to-full coverage with a natural finish. Dermatologist-tested, non-comedogenic, and SPF 17 protection.",
+    "image_url": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=400&h=400&fit=crop&q=80",
+    "ingredients_summary": "Micro-fine colour-matching pigments adapt to your unique skin undertone (cool, warm, or neutral). SPF 17 provides light daily sun protection. Oil-free, fragrance-free formula.",
+    "trending_score": 75.75,
+    "platform_prices": [
+      {
+        "platform": "nykaa",
+        "price": 649,
+        "original_price": 799,
+        "discount_pct": 18.8,
+        "url": "https://www.nykaa.com/loreal-true-match-foundation/p/123014",
+        "availability": true
+      },
+      {
+        "platform": "tira",
+        "price": 669,
+        "original_price": 799,
+        "discount_pct": 16.3,
+        "url": "https://www.tirabeauty.com/loreal-true-match/123014",
+        "availability": true
+      },
+      {
+        "platform": "amazon",
+        "price": 619,
+        "original_price": 799,
+        "discount_pct": 22.5,
+        "url": "https://www.amazon.in/dp/B08LOREAL14",
+        "availability": true
+      },
+      {
+        "platform": "flipkart",
+        "price": 629,
+        "original_price": 799,
+        "discount_pct": 21.3,
+        "url": "https://www.flipkart.com/loreal-true-match/p/lor14",
+        "availability": true
+      },
+      {
+        "platform": "purplle",
+        "price": 649,
+        "original_price": 799,
+        "discount_pct": 18.8,
+        "url": "https://www.purplle.com/loreal-true-match-foundation/p/123014",
+        "availability": true
+      }
+    ],
+    "trending_signals": {
+      "social_score": 75,
+      "bestseller_score": 78,
+      "rating_score": 79,
+      "search_score": 73,
+      "editorial_score": 72,
+      "composite_score": 75.75
+    }
+  },
+  {
+    "id": "a1b2c3d4-0015-4e5f-8a9b-000000000015",
+    "name": "Fit Me Concealer",
+    "brand": "Maybelline",
+    "category": "makeup",
+    "sub_category": "concealer",
+    "description": "A lightweight, full-coverage concealer that blends seamlessly to hide dark circles, blemishes, and imperfections. Natural finish that doesn't crease or cake. Available in 12 shades for all skin tones.",
+    "image_url": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=400&h=400&fit=crop&q=80",
+    "ingredients_summary": "Micro-fine pigments provide seamless, buildable coverage. Skin-conditioning agents keep the under-eye area hydrated to prevent dryness and creasing throughout the day.",
+    "trending_score": 79,
+    "platform_prices": [
+      {
+        "platform": "nykaa",
+        "price": 345,
+        "original_price": 399,
+        "discount_pct": 13.5,
+        "url": "https://www.nykaa.com/maybelline-fit-me-concealer/p/123015",
+        "availability": true
+      },
+      {
+        "platform": "tira",
+        "price": 360,
+        "original_price": 399,
+        "discount_pct": 9.8,
+        "url": "https://www.tirabeauty.com/maybelline-concealer/123015",
+        "availability": true
+      },
+      {
+        "platform": "amazon",
+        "price": 325,
+        "original_price": 399,
+        "discount_pct": 18.5,
+        "url": "https://www.amazon.in/dp/B08MAYBELLINE15",
+        "availability": true
+      },
+      {
+        "platform": "flipkart",
+        "price": 335,
+        "original_price": 399,
+        "discount_pct": 16,
+        "url": "https://www.flipkart.com/maybelline-fit-me-concealer/p/mbl15",
+        "availability": true
+      },
+      {
+        "platform": "purplle",
+        "price": 345,
+        "original_price": 399,
+        "discount_pct": 13.5,
+        "url": "https://www.purplle.com/maybelline-fit-me-concealer/p/123015",
+        "availability": true
+      }
+    ],
+    "trending_signals": {
+      "social_score": 80,
+      "bestseller_score": 82,
+      "rating_score": 78,
+      "search_score": 78,
+      "editorial_score": 74,
+      "composite_score": 79
+    }
+  },
+  {
+    "id": "a1b2c3d4-0016-4e5f-8a9b-000000000016",
+    "name": "BECCA x Chrissy Teigen Glow Face Palette",
+    "brand": "BECCA",
+    "category": "makeup",
+    "sub_category": "blush",
+    "description": "A flushed and illuminated face palette with a peachy blush, champagne highlighter, and a bronzing veil. Buildable pigment that photographs beautifully and suits a range of skin tones. Long-lasting glow without glitter.",
+    "image_url": "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?w=400&h=400&fit=crop&q=80",
+    "ingredients_summary": "Prismatic Pearl Technology delivers intense, multi-dimensional light reflection. Skin-loving pigments are finely milled for effortless blending. Free from parabens and phthalates.",
+    "trending_score": 72,
+    "platform_prices": [
+      {
+        "platform": "nykaa",
+        "price": 2499,
+        "original_price": 3200,
+        "discount_pct": 21.9,
+        "url": "https://www.nykaa.com/becca-glow-face-palette/p/123016",
+        "availability": true
+      },
+      {
+        "platform": "tira",
+        "price": 2599,
+        "original_price": 3200,
+        "discount_pct": 18.8,
+        "url": "https://www.tirabeauty.com/becca-glow-palette/123016",
+        "availability": true
+      },
+      {
+        "platform": "amazon",
+        "price": 2349,
+        "original_price": 3200,
+        "discount_pct": 26.6,
+        "url": "https://www.amazon.in/dp/B08BECCA16",
+        "availability": false
+      },
+      {
+        "platform": "flipkart",
+        "price": 2399,
+        "original_price": 3200,
+        "discount_pct": 25,
+        "url": "https://www.flipkart.com/becca-glow-palette/p/bcc16",
+        "availability": true
+      },
+      {
+        "platform": "purplle",
+        "price": 2499,
+        "original_price": 3200,
+        "discount_pct": 21.9,
+        "url": "https://www.purplle.com/becca-glow-face-palette/p/123016",
+        "availability": true
+      }
+    ],
+    "trending_signals": {
+      "social_score": 74,
+      "bestseller_score": 68,
+      "rating_score": 76,
+      "search_score": 70,
+      "editorial_score": 74,
+      "composite_score": 72
+    }
+  },
+  {
+    "id": "a1b2c3d4-0017-4e5f-8a9b-000000000017",
+    "name": "Smudge Me Not Liquid Lipstick",
+    "brand": "Sugar Cosmetics",
+    "category": "makeup",
+    "sub_category": "lipstick",
+    "description": "A transfer-proof, smudge-proof liquid lipstick that dries down to a comfortable matte finish. Stays put through meals, drinks, and long days. Available in 60+ shades from nudes to bolds. 100% vegan and cruelty-free.",
+    "image_url": "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?w=400&h=400&fit=crop&q=80",
+    "ingredients_summary": "Film-forming polymers create a long-wearing, transfer-resistant finish. Vitamin E conditions lips to prevent excessive dryness. Lightweight formula applies smoothly and dries quickly.",
+    "trending_score": 90,
+    "platform_prices": [
+      {
+        "platform": "nykaa",
+        "price": 549,
+        "original_price": 699,
+        "discount_pct": 21.5,
+        "url": "https://www.nykaa.com/sugar-smudge-me-not/p/123017",
+        "availability": true
+      },
+      {
+        "platform": "tira",
+        "price": 569,
+        "original_price": 699,
+        "discount_pct": 18.6,
+        "url": "https://www.tirabeauty.com/sugar-smudge-me-not/123017",
+        "availability": true
+      },
+      {
+        "platform": "amazon",
+        "price": 524,
+        "original_price": 699,
+        "discount_pct": 25,
+        "url": "https://www.amazon.in/dp/B08SUGAR17",
+        "availability": true
+      },
+      {
+        "platform": "flipkart",
+        "price": 539,
+        "original_price": 699,
+        "discount_pct": 22.9,
+        "url": "https://www.flipkart.com/sugar-smudge-me-not/p/sgr17",
+        "availability": true
+      },
+      {
+        "platform": "purplle",
+        "price": 549,
+        "original_price": 699,
+        "discount_pct": 21.5,
+        "url": "https://www.purplle.com/sugar-smudge-me-not-lipstick/p/123017",
+        "availability": true
+      }
+    ],
+    "trending_signals": {
+      "social_score": 92,
+      "bestseller_score": 88,
+      "rating_score": 90,
+      "search_score": 90,
+      "editorial_score": 88,
+      "composite_score": 90
+    }
+  },
+  {
+    "id": "a1b2c3d4-0018-4e5f-8a9b-000000000018",
+    "name": "9 to 5 Primer + Matte Lip Color",
+    "brand": "Lakme",
+    "category": "makeup",
+    "sub_category": "lipstick",
+    "description": "A 2-in-1 primer and matte lip color that provides rich, long-lasting color for up to 16 hours. Primer base ensures smooth application and enhanced staying power. Intensely pigmented in one stroke.",
+    "image_url": "https://images.unsplash.com/photo-1543269865-cbf427effbad?w=400&h=400&fit=crop&q=80",
+    "ingredients_summary": "Built-in lip primer smoothes and primes for better color adhesion. Rich matte pigments deliver intense color. Conditioning agents keep lips comfortable throughout wear.",
+    "trending_score": 67.5,
+    "platform_prices": [
+      {
+        "platform": "nykaa",
+        "price": 349,
+        "original_price": 399,
+        "discount_pct": 12.5,
+        "url": "https://www.nykaa.com/lakme-9to5-matte-lipcolor/p/123018",
+        "availability": true
+      },
+      {
+        "platform": "tira",
+        "price": 365,
+        "original_price": 399,
+        "discount_pct": 8.5,
+        "url": "https://www.tirabeauty.com/lakme-9to5/123018",
+        "availability": true
+      },
+      {
+        "platform": "amazon",
+        "price": 329,
+        "original_price": 399,
+        "discount_pct": 17.5,
+        "url": "https://www.amazon.in/dp/B08LAKME18",
+        "availability": true
+      },
+      {
+        "platform": "flipkart",
+        "price": 339,
+        "original_price": 399,
+        "discount_pct": 15,
+        "url": "https://www.flipkart.com/lakme-9to5-primer/p/lkm18",
+        "availability": true
+      },
+      {
+        "platform": "purplle",
+        "price": 349,
+        "original_price": 399,
+        "discount_pct": 12.5,
+        "url": "https://www.purplle.com/lakme-9to5-matte/p/123018",
+        "availability": true
+      }
+    ],
+    "trending_signals": {
+      "social_score": 65,
+      "bestseller_score": 72,
+      "rating_score": 70,
+      "search_score": 65,
+      "editorial_score": 60,
+      "composite_score": 67.5
+    }
+  },
+  {
+    "id": "a1b2c3d4-0019-4e5f-8a9b-000000000019",
+    "name": "Lash Sensational Sky High Mascara",
+    "brand": "Maybelline",
+    "category": "makeup",
+    "sub_category": "mascara",
+    "description": "A lengthening mascara with a flexible film formula and a unique brush that fans out lashes from root to tip for sky-high length. Buildable formula for natural to dramatic looks. Infused with bamboo extract.",
+    "image_url": "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=400&h=400&fit=crop&q=80",
+    "ingredients_summary": "Flexible film formula stretches with lashes for sky-high length without clumping. Bamboo Extract strengthens lashes. Wax base coats every lash from root to tip for a fanned-out effect.",
+    "trending_score": 94,
+    "platform_prices": [
+      {
+        "platform": "nykaa",
+        "price": 549,
+        "original_price": 699,
+        "discount_pct": 21.5,
+        "url": "https://www.nykaa.com/maybelline-sky-high-mascara/p/123019",
+        "availability": true
+      },
+      {
+        "platform": "tira",
+        "price": 569,
+        "original_price": 699,
+        "discount_pct": 18.6,
+        "url": "https://www.tirabeauty.com/maybelline-sky-high/123019",
+        "availability": true
+      },
+      {
+        "platform": "amazon",
+        "price": 524,
+        "original_price": 699,
+        "discount_pct": 25,
+        "url": "https://www.amazon.in/dp/B08MAYBELLINE19",
+        "availability": true
+      },
+      {
+        "platform": "flipkart",
+        "price": 534,
+        "original_price": 699,
+        "discount_pct": 23.6,
+        "url": "https://www.flipkart.com/maybelline-sky-high-mascara/p/mbl19",
+        "availability": true
+      },
+      {
+        "platform": "purplle",
+        "price": 549,
+        "original_price": 699,
+        "discount_pct": 21.5,
+        "url": "https://www.purplle.com/maybelline-sky-high-mascara/p/123019",
+        "availability": true
+      }
+    ],
+    "trending_signals": {
+      "social_score": 96,
+      "bestseller_score": 92,
+      "rating_score": 94,
+      "search_score": 95,
+      "editorial_score": 90,
+      "composite_score": 94
+    }
+  },
+  {
+    "id": "a1b2c3d4-0020-4e5f-8a9b-000000000020",
+    "name": "Velvet Love Eyeshadow Palette",
+    "brand": "MyGlamm",
+    "category": "makeup",
+    "sub_category": "eyeshadow",
+    "description": "A 9-pan eyeshadow palette with a curated mix of matte and shimmer shades ranging from everyday neutrals to bold evening hues. Highly pigmented, blendable formula that lasts up to 12 hours without fallout.",
+    "image_url": "https://images.unsplash.com/photo-1556228453-efd6c1ff04f6?w=400&h=400&fit=crop&q=80",
+    "ingredients_summary": "Ultra-fine pigments with a velvet-smooth texture for effortless blending. Mica and cosmetic-grade glitter create dimensional shimmer. Silicone-based binders ensure crease-free, long-wear performance.",
+    "trending_score": 77.25,
+    "platform_prices": [
+      {
+        "platform": "nykaa",
+        "price": 799,
+        "original_price": 1099,
+        "discount_pct": 27.3,
+        "url": "https://www.nykaa.com/myglamm-velvet-eyeshadow-palette/p/123020",
+        "availability": true
+      },
+      {
+        "platform": "tira",
+        "price": 829,
+        "original_price": 1099,
+        "discount_pct": 24.6,
+        "url": "https://www.tirabeauty.com/myglamm-eyeshadow/123020",
+        "availability": true
+      },
+      {
+        "platform": "amazon",
+        "price": 769,
+        "original_price": 1099,
+        "discount_pct": 30,
+        "url": "https://www.amazon.in/dp/B08MYGLAMM20",
+        "availability": true
+      },
+      {
+        "platform": "flipkart",
+        "price": 779,
+        "original_price": 1099,
+        "discount_pct": 29.1,
+        "url": "https://www.flipkart.com/myglamm-velvet-eyeshadow/p/myg20",
+        "availability": true
+      },
+      {
+        "platform": "purplle",
+        "price": 799,
+        "original_price": 1099,
+        "discount_pct": 27.3,
+        "url": "https://www.purplle.com/myglamm-velvet-love-eyeshadow/p/123020",
+        "availability": true
+      }
+    ],
+    "trending_signals": {
+      "social_score": 78,
+      "bestseller_score": 75,
+      "rating_score": 80,
+      "search_score": 76,
+      "editorial_score": 78,
+      "composite_score": 77.25
+    }
+  }
+]
