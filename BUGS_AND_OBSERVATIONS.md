@@ -81,3 +81,13 @@
 **Also required (manual — Supabase Dashboard):** Supabase → Authentication → Providers → Email → toggle **"Enable email confirmations"** ON. Without this, Supabase never sends the email and the code fix has no effect.
 **Files:** `src/context/auth-context.tsx`, `app/auth/signup/page.tsx`
 **Status:** ✅ Fixed
+
+---
+
+## B-008 — Last card in Trending This Week appears smaller
+**Reported:** April 2026 — Shivi observed in screenshot; card #6 visually smaller than the others
+**Symptom:** The 6th card in the horizontal scroll row looked slightly narrower/clipped compared to cards #1–5.
+**Root cause:** The section had `px-5 sm:px-8` padding applied to the section element itself. The horizontal scroll container (`overflow-x-auto`) was a child of the section, so its right boundary ended at the section's inner content edge — 20–32px before the section's visual right edge. The last card hit this boundary and was visually cramped with no trailing breathing room.
+**Fix:** Moved horizontal padding off the section onto its children individually — `px-5 sm:px-8` applied to the header div and to the scroll container directly. The scroll container now owns its own left and right padding, so the last card has equal trailing space as the first card has leading space.
+**File:** `components/trending-this-week.tsx`
+**Status:** ✅ Fixed

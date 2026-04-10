@@ -103,9 +103,9 @@ export function TrendingThisWeek({ products }: TrendingThisWeekProps) {
   const top6 = products.slice(0, 6)
 
   return (
-    <section className="border-y-[3px] border-glow-black bg-glow-black px-5 py-6 sm:px-8 sm:py-8">
+    <section className="border-y-[3px] border-glow-black bg-glow-black py-6 sm:py-8">
       {/* Header */}
-      <div className="mb-5 flex flex-wrap items-end justify-between gap-2">
+      <div className="mb-5 flex flex-wrap items-end justify-between gap-2 px-5 sm:px-8">
         <div className="flex items-center gap-3">
           <Flame className="h-6 w-6 text-glow-primary" />
           <h2 className="font-display text-2xl font-bold tracking-tight text-white sm:text-3xl">
@@ -118,7 +118,7 @@ export function TrendingThisWeek({ products }: TrendingThisWeekProps) {
       </div>
 
       {/* Horizontal scroll */}
-      <div className="flex gap-3 overflow-x-auto pb-1 [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">
+      <div className="flex gap-3 overflow-x-auto px-5 pb-1 sm:px-8 [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">
         {top6.map((product, i) => (
           <TrendingCard key={product.id} product={product} rank={i + 1} />
         ))}
