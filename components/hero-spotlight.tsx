@@ -24,7 +24,7 @@ export function HeroSpotlight({ product }: HeroSpotlightProps) {
         <div className="grid grid-cols-1 lg:grid-cols-2 min-h-[520px]">
 
           {/* ── Left: product image block ── */}
-          <div className="relative flex items-end justify-center bg-glow-primary border-b-[3px] border-glow-black lg:border-b-0 lg:border-r-[3px] py-10 px-8 overflow-hidden min-h-[320px]">
+          <div className="relative flex items-end justify-center bg-glow-primary border-b-[3px] border-glow-black lg:border-b-0 lg:border-r-[3px] py-8 px-4 sm:py-10 sm:px-8 overflow-hidden min-h-[280px] sm:min-h-[320px]">
 
             {/* Big faded rank number — background texture */}
             <span className="absolute right-4 bottom-0 font-display font-700 text-[200px] leading-none text-black/10 select-none pointer-events-none">
@@ -40,7 +40,7 @@ export function HeroSpotlight({ product }: HeroSpotlightProps) {
             </div>
 
             {/* Product image */}
-            <div className="relative w-64 h-64 sm:w-80 sm:h-80 border-[3px] border-glow-black bg-white shadow-[8px_8px_0px_#0F172A]">
+            <div className="relative w-48 h-48 sm:w-64 sm:h-64 lg:w-80 lg:h-80 border-[3px] border-glow-black bg-white shadow-[8px_8px_0px_#0F172A]">
               <Image
                 src={product.image_url}
                 alt={`${product.brand} ${product.name}`}
@@ -57,7 +57,7 @@ export function HeroSpotlight({ product }: HeroSpotlightProps) {
           </div>
 
           {/* ── Right: content ── */}
-          <div className="flex flex-col justify-center px-8 py-10 sm:px-12">
+          <div className="flex flex-col justify-center px-4 py-8 sm:px-8 sm:py-10 lg:px-12">
 
             {/* Eyebrow */}
             <div className="flex items-center gap-2 mb-5">
@@ -72,7 +72,7 @@ export function HeroSpotlight({ product }: HeroSpotlightProps) {
             </p>
 
             {/* Product name */}
-            <h1 className="font-display font-700 text-3xl sm:text-4xl lg:text-[42px] leading-[1.1] text-glow-black">
+            <h1 className="font-display font-700 text-2xl sm:text-3xl lg:text-[42px] leading-[1.1] text-glow-black">
               {product.name}
             </h1>
 

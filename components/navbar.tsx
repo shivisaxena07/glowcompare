@@ -19,7 +19,7 @@ export function Navbar() {
 
   return (
     <header className="sticky top-0 z-50 border-b-[3px] border-glow-black bg-white">
-      <div className="mx-auto flex max-w-7xl items-center gap-3 px-4 py-3 sm:gap-5 sm:px-6 lg:px-8">
+      <div className="mx-auto flex max-w-7xl flex-wrap items-center justify-between gap-x-3 gap-y-0 px-4 py-3 sm:flex-nowrap sm:justify-start sm:gap-5 sm:px-6 lg:px-8">
 
         {/* Logo */}
         <Link href="/" className="shrink-0 select-none" aria-label="GlowCompare home">
@@ -28,8 +28,8 @@ export function Navbar() {
           </span>
         </Link>
 
-        {/* Search — grows to fill available space */}
-        <div className="min-w-0 flex-1">
+        {/* Search — own row on mobile, inline on sm+ */}
+        <div className="order-last w-full pb-3 sm:order-none sm:min-w-0 sm:flex-1 sm:pb-0">
           <SearchBar />
         </div>
 
