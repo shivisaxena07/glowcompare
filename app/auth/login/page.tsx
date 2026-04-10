@@ -5,6 +5,14 @@ import { useRouter } from 'next/navigation'
 import Link from 'next/link'
 import { useAuth } from '@/src/context/auth-context'
 
+const SIGNALS = [
+  { label: 'Social Buzz',       pct: 30 },
+  { label: 'Bestseller Rank',   pct: 25 },
+  { label: 'Ratings & Reviews', pct: 20 },
+  { label: 'Search Volume',     pct: 15 },
+  { label: 'Editorial Picks',   pct: 10 },
+]
+
 export default function LoginPage() {
   const { signIn } = useAuth()
   const router = useRouter()
@@ -18,83 +26,156 @@ export default function LoginPage() {
     e.preventDefault()
     setError(null)
     setLoading(true)
-
     const { error } = await signIn(email, password)
     setLoading(false)
-
-    if (error) {
-      setError(error)
-      return
-    }
-
+    if (error) { setError(error); return }
     router.push('/')
   }
 
   return (
-    <main className="min-h-screen bg-[#FAFAF8] flex items-center justify-center px-4">
-      <div className="w-full max-w-md">
-        {/* Header */}
-        <div className="mb-8">
-          <Link href="/" className="font-display font-700 text-xl text-glow-black">
-            Glow<span className="text-glow-primary">Compare</span>
-          </Link>
-          <h1 className="font-display font-700 text-3xl text-glow-black mt-6">Welcome back</h1>
-          <p className="text-stone-500 mt-1 text-sm">Log in to see your wishlist and price alerts.</p>
-        </div>
+    <main className="flex min-h-screen">
 
-        <form onSubmit={handleSubmit} className="space-y-4">
-          <div>
-            <label htmlFor="email" className="block text-sm font-500 text-glow-black mb-1">
-              Email
-            </label>
-            <input
-              id="email"
-              type="email"
-              required
-              value={email}
-              onChange={e => setEmail(e.target.value)}
-              placeholder="you@example.com"
-              className="w-full border-2 border-glow-black px-3 py-2.5 text-sm bg-white text-glow-black placeholder:text-stone-400 focus:outline-none focus:border-glow-primary transition-colors"
-            />
-          </div>
+      {/* ── Left: brand panel ── */}
+      <div className="relative hidden overflow-hidden bg-glow-black lg:flex lg:w-[52%] lg:flex-col lg:p-12">
 
-          <div>
-            <label htmlFor="password" className="block text-sm font-500 text-glow-black mb-1">
-              Password
-            </label>
-            <input
-              id="password"
-              type="password"
-              required
-              value={password}
-              onChange={e => setPassword(e.target.value)}
-              placeholder="Your password"
-              className="w-full border-2 border-glow-black px-3 py-2.5 text-sm bg-white text-glow-black placeholder:text-stone-400 focus:outline-none focus:border-glow-primary transition-colors"
-            />
-          </div>
+        {/* Geometric accents */}
+        <div className="absolute -right-16 -top-16 h-64 w-64 border-[3px] border-glow-primary opacity-10" aria-hidden />
+        <div className="absolute -bottom-20 -left-10 h-72 w-72 border-[3px] border-glow-primary opacity-5" aria-hidden />
+        <div className="absolute right-8 top-1/3 h-3 w-16 bg-glow-primary opacity-60" aria-hidden />
 
-          {error && (
-            <p className="text-sm text-red-600 border-2 border-red-200 bg-red-50 px-3 py-2">
-              {error}
+        {/* Logo */}
+        <Link href="/" className="relative z-10 self-start">
+          <span className="font-display text-xl font-bold text-white">
+            Glow<span className="bg-glow-primary px-1 py-0.5 text-white">Compare</span>
+          </span>
+        </Link>
+
+        {/* Hero copy */}
+        <div className="relative z-10 mt-auto">
+          <p className="mb-3 font-display text-[11px] font-700 uppercase tracking-[0.2em] text-glow-primary">
+            Beauty intel · Best prices
+          </p>
+          <h2 className="font-display text-5xl font-700 leading-[1.05] text-white xl:text-6xl">
+            Discover.<br />
+            Compare.<br />
+            <span className="text-glow-primary">Glow.</span>
+          </h2>
+          <p className="mt-5 max-w-xs text-sm leading-relaxed text-stone-400">
+            Trending skincare & makeup compared across Nykaa, Tira, Amazon, Flipkart and Purplle — all in one place.
+          </p>
+
+          {/* Trend score bars */}
+          <div className="mt-10">
+            <p className="mb-4 font-display text-[10px] font-700 uppercase tracking-[0.2em] text-stone-500">
+              How we rank trending
             </p>
-          )}
+            <div className="space-y-2.5">
+              {SIGNALS.map(({ label, pct }) => (
+                <div key={label} className="flex items-center gap-3">
+                  <div
+                    className="h-1.5 bg-glow-primary"
+                    style={{ width: `${pct * 2.8}%`, opacity: 0.5 + pct / 100 }}
+                  />
+                  <span className="text-xs text-stone-400">
+                    {label}{' '}
+                    <span className="font-display font-700 text-glow-primary">{pct}%</span>
+                  </span>
+                </div>
+              ))}
+            </div>
+          </div>
 
-          <button
-            type="submit"
-            disabled={loading}
-            className="w-full bg-glow-primary text-white font-display font-600 text-sm py-3 border-2 border-glow-primary hover:bg-glow-black hover:border-glow-black transition-colors disabled:opacity-60 disabled:cursor-not-allowed"
-          >
-            {loading ? 'Logging in…' : 'Log in'}
-          </button>
+          {/* Stats */}
+          <div className="mt-10 flex gap-8 border-t border-stone-800 pt-8">
+            {[['200+', 'Products'], ['5', 'Platforms'], ['Free', 'Always']].map(([val, label]) => (
+              <div key={label}>
+                <p className="font-display text-2xl font-700 text-white">{val}</p>
+                <p className="text-xs text-stone-500">{label}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </div>
 
-          <p className="text-center text-sm text-stone-500">
-            Don&apos;t have an account?{' '}
-            <Link href="/auth/signup" className="text-glow-primary font-500 hover:underline">
-              Sign up
+      {/* ── Right: form panel ── */}
+      <div className="flex w-full flex-col items-center justify-center bg-[#FAFAF8] px-6 py-12 lg:w-[48%] lg:px-12">
+        <div className="w-full max-w-sm">
+
+          {/* Mobile-only logo */}
+          <Link href="/" className="mb-8 block lg:hidden">
+            <span className="font-display text-xl font-bold text-glow-black">
+              Glow<span className="bg-glow-primary px-1 py-0.5 text-white">Compare</span>
+            </span>
+          </Link>
+
+          <h1 className="font-display text-3xl font-700 text-glow-black">Welcome back</h1>
+          <p className="mt-1 text-sm text-stone-500">Log in to see your wishlist and price alerts.</p>
+
+          <form onSubmit={handleSubmit} className="mt-8 space-y-4">
+            <div>
+              <label htmlFor="email" className="mb-1 block text-xs font-700 uppercase tracking-widest text-glow-black">
+                Email
+              </label>
+              <input
+                id="email"
+                type="email"
+                required
+                value={email}
+                onChange={e => setEmail(e.target.value)}
+                placeholder="you@example.com"
+                className="w-full border-2 border-glow-black bg-white px-3 py-3 text-sm text-glow-black placeholder:text-stone-400 focus:border-glow-primary focus:outline-none transition-colors"
+              />
+            </div>
+
+            <div>
+              <label htmlFor="password" className="mb-1 block text-xs font-700 uppercase tracking-widest text-glow-black">
+                Password
+              </label>
+              <input
+                id="password"
+                type="password"
+                required
+                value={password}
+                onChange={e => setPassword(e.target.value)}
+                placeholder="Your password"
+                className="w-full border-2 border-glow-black bg-white px-3 py-3 text-sm text-glow-black placeholder:text-stone-400 focus:border-glow-primary focus:outline-none transition-colors"
+              />
+            </div>
+
+            {error && (
+              <p className="border-2 border-red-200 bg-red-50 px-3 py-2 text-sm text-red-600">
+                {error}
+              </p>
+            )}
+
+            <button
+              type="submit"
+              disabled={loading}
+              className="w-full border-2 border-glow-primary bg-glow-primary py-3 font-display text-sm font-700 text-white transition-all hover:bg-glow-black hover:border-glow-black disabled:cursor-not-allowed disabled:opacity-60 cursor-pointer"
+            >
+              {loading ? 'Logging in…' : 'Log in →'}
+            </button>
+          </form>
+
+          <p className="mt-6 text-center text-sm text-stone-500">
+            No account?{' '}
+            <Link href="/auth/signup" className="font-700 text-glow-primary hover:underline">
+              Sign up free
             </Link>
           </p>
-        </form>
+
+          {/* Brand tagline — mobile only */}
+          <div className="mt-12 border-t-2 border-glow-black pt-6 lg:hidden">
+            <p className="font-display text-xs font-700 uppercase tracking-widest text-stone-400">
+              Compare prices across
+            </p>
+            <p className="mt-1 text-sm font-bold text-glow-black">
+              Nykaa · Tira · Amazon · Flipkart · Purplle
+            </p>
+          </div>
+        </div>
       </div>
+
     </main>
   )
 }
