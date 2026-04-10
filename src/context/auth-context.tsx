@@ -56,7 +56,8 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
   }, [fetchWishlistIds])
 
   const signUp = async (email: string, password: string) => {
-    const { error } = await supabase.auth.signUp({ email, password })
+    const redirectTo = `${window.location.origin}/auth/callback`
+    const { error } = await supabase.auth.signUp({ email, password, options: { emailRedirectTo: redirectTo } })
     return { error: error?.message ?? null }
   }
 
