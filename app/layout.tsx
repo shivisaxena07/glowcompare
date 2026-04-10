@@ -2,6 +2,7 @@ import { DM_Sans, Space_Grotesk } from 'next/font/google'
 import './globals.css'
 import { ThemeProvider } from '@/components/theme-provider'
 import { Navbar } from '@/components/navbar'
+import { ScrollProgress } from '@/components/scroll-progress'
 import { AuthProvider } from '@/src/context/auth-context'
 import { cn } from '@/lib/utils'
 
@@ -24,6 +25,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <body className="font-sans bg-stone-50">
         <ThemeProvider>
           <AuthProvider>
+            <ScrollProgress />
             <Navbar />
             {children}
           </AuthProvider>
