@@ -12,41 +12,41 @@
     "platform_prices": [
       {
         "platform": "nykaa",
-        "price": 599,
+        "price": 579,
         "original_price": 699,
-        "discount_pct": 14.3,
+        "discount_pct": 17.2,
         "url": "https://www.nykaa.com/minimalist-niacinamide-10-zinc-1-serum/p/123001",
         "availability": true
       },
       {
         "platform": "tira",
-        "price": 619,
+        "price": 609,
         "original_price": 699,
-        "discount_pct": 11.4,
+        "discount_pct": 12.9,
         "url": "https://www.tirabeauty.com/minimalist-niacinamide-serum/123001",
         "availability": true
       },
       {
         "platform": "amazon",
-        "price": 579,
+        "price": 629,
         "original_price": 699,
-        "discount_pct": 17.2,
+        "discount_pct": 10,
         "url": "https://www.amazon.in/dp/B08MINIMALIST01",
         "availability": true
       },
       {
         "platform": "flipkart",
-        "price": 589,
+        "price": 649,
         "original_price": 699,
-        "discount_pct": 15.7,
+        "discount_pct": 7.2,
         "url": "https://www.flipkart.com/minimalist-niacinamide/p/minm01",
         "availability": true
       },
       {
         "platform": "purplle",
-        "price": 599,
+        "price": 659,
         "original_price": 699,
-        "discount_pct": 14.3,
+        "discount_pct": 5.7,
         "url": "https://www.purplle.com/minimalist-niacinamide-10-zinc-1/p/123001",
         "availability": true
       }
@@ -81,33 +81,33 @@
       },
       {
         "platform": "tira",
-        "price": 669,
+        "price": 629,
         "original_price": 749,
-        "discount_pct": 10.7,
+        "discount_pct": 16,
         "url": "https://www.tirabeauty.com/minimalist-vitamin-c-serum/123002",
         "availability": true
       },
       {
         "platform": "amazon",
-        "price": 629,
+        "price": 679,
         "original_price": 749,
-        "discount_pct": 16,
+        "discount_pct": 9.3,
         "url": "https://www.amazon.in/dp/B08MINIMALIST02",
         "availability": true
       },
       {
         "platform": "flipkart",
-        "price": 639,
+        "price": 699,
         "original_price": 749,
-        "discount_pct": 14.7,
+        "discount_pct": 6.7,
         "url": "https://www.flipkart.com/minimalist-vitamin-c-20/p/minm02",
         "availability": true
       },
       {
         "platform": "purplle",
-        "price": 655,
+        "price": 709,
         "original_price": 749,
-        "discount_pct": 12.6,
+        "discount_pct": 5.3,
         "url": "https://www.purplle.com/minimalist-vitamin-c-20-serum/p/123002",
         "availability": false
       }
@@ -134,17 +134,17 @@
     "platform_prices": [
       {
         "platform": "nykaa",
-        "price": 425,
+        "price": 419,
         "original_price": 595,
-        "discount_pct": 28.6,
+        "discount_pct": 29.6,
         "url": "https://www.nykaa.com/dot-key-watermelon-moisturizer/p/123003",
         "availability": true
       },
       {
         "platform": "tira",
-        "price": 449,
+        "price": 429,
         "original_price": 595,
-        "discount_pct": 24.5,
+        "discount_pct": 27.9,
         "url": "https://www.tirabeauty.com/dot-key-watermelon/123003",
         "availability": true
       },
@@ -152,23 +152,23 @@
         "platform": "amazon",
         "price": 399,
         "original_price": 595,
-        "discount_pct": 33,
+        "discount_pct": 32.9,
         "url": "https://www.amazon.in/dp/B08DOTKEY03",
         "availability": true
       },
       {
         "platform": "flipkart",
-        "price": 419,
+        "price": 469,
         "original_price": 595,
-        "discount_pct": 29.6,
+        "discount_pct": 21.2,
         "url": "https://www.flipkart.com/dot-key-watermelon/p/dk03",
         "availability": true
       },
       {
         "platform": "purplle",
-        "price": 430,
+        "price": 479,
         "original_price": 595,
-        "discount_pct": 27.7,
+        "discount_pct": 19.5,
         "url": "https://www.purplle.com/dot-key-watermelon-hyaluronic/p/123003",
         "availability": true
       }
@@ -195,41 +195,41 @@
     "platform_prices": [
       {
         "platform": "nykaa",
-        "price": 179,
+        "price": 189,
         "original_price": 229,
-        "discount_pct": 21.8,
+        "discount_pct": 17.5,
         "url": "https://www.nykaa.com/ponds-super-light-gel/p/123004",
         "availability": true
       },
       {
         "platform": "tira",
-        "price": 189,
+        "price": 199,
         "original_price": 229,
-        "discount_pct": 17.5,
+        "discount_pct": 13.1,
         "url": "https://www.tirabeauty.com/ponds-light-gel/123004",
         "availability": true
       },
       {
         "platform": "amazon",
-        "price": 169,
+        "price": 219,
         "original_price": 229,
-        "discount_pct": 26.2,
+        "discount_pct": 4.4,
         "url": "https://www.amazon.in/dp/B08PONDS04",
         "availability": true
       },
       {
         "platform": "flipkart",
-        "price": 174,
+        "price": 169,
         "original_price": 229,
-        "discount_pct": 24,
+        "discount_pct": 26.2,
         "url": "https://www.flipkart.com/ponds-super-light-gel/p/pds04",
         "availability": true
       },
       {
         "platform": "purplle",
-        "price": 179,
+        "price": 229,
         "original_price": 229,
-        "discount_pct": 21.8,
+        "discount_pct": 0,
         "url": "https://www.purplle.com/ponds-super-light-gel/p/123004",
         "availability": true
       }
@@ -256,41 +256,41 @@
     "platform_prices": [
       {
         "platform": "nykaa",
-        "price": 249,
+        "price": 259,
         "original_price": 299,
-        "discount_pct": 16.7,
+        "discount_pct": 13.4,
         "url": "https://www.nykaa.com/mamaearth-ubtan-face-wash/p/123005",
         "availability": true
       },
       {
         "platform": "tira",
-        "price": 259,
+        "price": 269,
         "original_price": 299,
-        "discount_pct": 13.4,
+        "discount_pct": 10,
         "url": "https://www.tirabeauty.com/mamaearth-ubtan/123005",
         "availability": true
       },
       {
         "platform": "amazon",
-        "price": 239,
+        "price": 289,
         "original_price": 299,
-        "discount_pct": 20.1,
+        "discount_pct": 3.3,
         "url": "https://www.amazon.in/dp/B08MAMAEARTH05",
         "availability": true
       },
       {
         "platform": "flipkart",
-        "price": 244,
+        "price": 299,
         "original_price": 299,
-        "discount_pct": 18.4,
+        "discount_pct": 0,
         "url": "https://www.flipkart.com/mamaearth-ubtan/p/me05",
         "availability": true
       },
       {
         "platform": "purplle",
-        "price": 249,
+        "price": 239,
         "original_price": 299,
-        "discount_pct": 16.7,
+        "discount_pct": 20.1,
         "url": "https://www.purplle.com/mamaearth-ubtan-face-wash/p/123005",
         "availability": true
       }
@@ -317,41 +317,41 @@
     "platform_prices": [
       {
         "platform": "nykaa",
-        "price": 399,
+        "price": 379,
         "original_price": 450,
-        "discount_pct": 11.3,
+        "discount_pct": 15.8,
         "url": "https://www.nykaa.com/cetaphil-gentle-skin-cleanser/p/123006",
         "availability": true
       },
       {
         "platform": "tira",
-        "price": 419,
+        "price": 409,
         "original_price": 450,
-        "discount_pct": 6.9,
+        "discount_pct": 9.1,
         "url": "https://www.tirabeauty.com/cetaphil-cleanser/123006",
         "availability": true
       },
       {
         "platform": "amazon",
-        "price": 379,
+        "price": 429,
         "original_price": 450,
-        "discount_pct": 15.8,
+        "discount_pct": 4.7,
         "url": "https://www.amazon.in/dp/B08CETAPHIL06",
         "availability": true
       },
       {
         "platform": "flipkart",
-        "price": 389,
+        "price": 449,
         "original_price": 450,
-        "discount_pct": 13.6,
+        "discount_pct": 0.2,
         "url": "https://www.flipkart.com/cetaphil-gentle-cleanser/p/ctp06",
         "availability": true
       },
       {
         "platform": "purplle",
-        "price": 399,
+        "price": 450,
         "original_price": 450,
-        "discount_pct": 11.3,
+        "discount_pct": 0,
         "url": "https://www.purplle.com/cetaphil-gentle-skin-cleanser/p/123006",
         "availability": true
       }
@@ -378,41 +378,41 @@
     "platform_prices": [
       {
         "platform": "nykaa",
-        "price": 495,
+        "price": 499,
         "original_price": 595,
-        "discount_pct": 16.8,
+        "discount_pct": 16.1,
         "url": "https://www.nykaa.com/reequil-ultra-matte-sunscreen-spf50/p/123007",
         "availability": true
       },
       {
         "platform": "tira",
-        "price": 515,
+        "price": 479,
         "original_price": 595,
-        "discount_pct": 13.4,
+        "discount_pct": 19.5,
         "url": "https://www.tirabeauty.com/reequil-sunscreen/123007",
         "availability": true
       },
       {
         "platform": "amazon",
-        "price": 479,
+        "price": 529,
         "original_price": 595,
-        "discount_pct": 19.5,
+        "discount_pct": 11.1,
         "url": "https://www.amazon.in/dp/B08REEQUIL07",
         "availability": true
       },
       {
         "platform": "flipkart",
-        "price": 489,
+        "price": 549,
         "original_price": 595,
-        "discount_pct": 17.8,
+        "discount_pct": 7.7,
         "url": "https://www.flipkart.com/reequil-ultra-matte/p/req07",
         "availability": true
       },
       {
         "platform": "purplle",
-        "price": 499,
+        "price": 559,
         "original_price": 595,
-        "discount_pct": 16.1,
+        "discount_pct": 6.1,
         "url": "https://www.purplle.com/reequil-ultra-matte-sunscreen/p/123007",
         "availability": true
       }
@@ -463,17 +463,17 @@
       },
       {
         "platform": "flipkart",
-        "price": 269,
+        "price": 325,
         "original_price": 325,
-        "discount_pct": 17.2,
+        "discount_pct": 0,
         "url": "https://www.flipkart.com/lakme-sun-expert/p/lkm08",
         "availability": true
       },
       {
         "platform": "purplle",
-        "price": 275,
+        "price": 325,
         "original_price": 325,
-        "discount_pct": 15.4,
+        "discount_pct": 0,
         "url": "https://www.purplle.com/lakme-sun-expert-spf50/p/123008",
         "availability": true
       }
@@ -500,9 +500,9 @@
     "platform_prices": [
       {
         "platform": "nykaa",
-        "price": 279,
+        "price": 285,
         "original_price": 349,
-        "discount_pct": 20.1,
+        "discount_pct": 18.3,
         "url": "https://www.nykaa.com/plum-green-tea-toner/p/123009",
         "availability": true
       },
@@ -516,25 +516,25 @@
       },
       {
         "platform": "amazon",
-        "price": 265,
+        "price": 315,
         "original_price": 349,
-        "discount_pct": 24.1,
+        "discount_pct": 9.7,
         "url": "https://www.amazon.in/dp/B08PLUM09",
         "availability": true
       },
       {
         "platform": "flipkart",
-        "price": 272,
+        "price": 265,
         "original_price": 349,
-        "discount_pct": 22.1,
+        "discount_pct": 24.1,
         "url": "https://www.flipkart.com/plum-green-tea-toner/p/plm09",
         "availability": true
       },
       {
         "platform": "purplle",
-        "price": 279,
+        "price": 345,
         "original_price": 349,
-        "discount_pct": 20.1,
+        "discount_pct": 1.1,
         "url": "https://www.purplle.com/plum-green-tea-toner/p/123009",
         "availability": true
       }
@@ -561,41 +561,41 @@
     "platform_prices": [
       {
         "platform": "nykaa",
-        "price": 1150,
+        "price": 1119,
         "original_price": 1350,
-        "discount_pct": 14.8,
+        "discount_pct": 17.1,
         "url": "https://www.nykaa.com/the-ordinary-peptide-eye-cream/p/123010",
         "availability": true
       },
       {
         "platform": "tira",
-        "price": 1195,
+        "price": 1129,
         "original_price": 1350,
-        "discount_pct": 11.5,
+        "discount_pct": 16.4,
         "url": "https://www.tirabeauty.com/ordinary-eye-cream/123010",
         "availability": true
       },
       {
         "platform": "amazon",
-        "price": 1099,
+        "price": 1149,
         "original_price": 1350,
-        "discount_pct": 18.6,
+        "discount_pct": 14.9,
         "url": "https://www.amazon.in/dp/B08ORDINARY10",
         "availability": true
       },
       {
         "platform": "flipkart",
-        "price": 1125,
+        "price": 1169,
         "original_price": 1350,
-        "discount_pct": 16.7,
+        "discount_pct": 13.4,
         "url": "https://www.flipkart.com/ordinary-peptide-eye-cream/p/ord10",
         "availability": true
       },
       {
         "platform": "purplle",
-        "price": 1150,
+        "price": 1099,
         "original_price": 1350,
-        "discount_pct": 14.8,
+        "discount_pct": 18.6,
         "url": "https://www.purplle.com/the-ordinary-peptide-eye-cream/p/123010",
         "availability": false
       }
@@ -622,41 +622,41 @@
     "platform_prices": [
       {
         "platform": "nykaa",
-        "price": 699,
+        "price": 675,
         "original_price": 850,
-        "discount_pct": 17.8,
+        "discount_pct": 20.6,
         "url": "https://www.nykaa.com/the-ordinary-hyaluronic-acid-2-b5/p/123011",
         "availability": true
       },
       {
         "platform": "tira",
-        "price": 725,
+        "price": 705,
         "original_price": 850,
-        "discount_pct": 14.7,
+        "discount_pct": 17.1,
         "url": "https://www.tirabeauty.com/ordinary-ha-b5/123011",
         "availability": true
       },
       {
         "platform": "amazon",
-        "price": 675,
+        "price": 725,
         "original_price": 850,
-        "discount_pct": 20.6,
+        "discount_pct": 14.7,
         "url": "https://www.amazon.in/dp/B08ORDINARY11",
         "availability": true
       },
       {
         "platform": "flipkart",
-        "price": 685,
+        "price": 745,
         "original_price": 850,
-        "discount_pct": 19.4,
+        "discount_pct": 12.4,
         "url": "https://www.flipkart.com/ordinary-hyaluronic-acid/p/ord11",
         "availability": true
       },
       {
         "platform": "purplle",
-        "price": 699,
+        "price": 755,
         "original_price": 850,
-        "discount_pct": 17.8,
+        "discount_pct": 11.2,
         "url": "https://www.purplle.com/the-ordinary-hyaluronic-acid-b5/p/123011",
         "availability": true
       }
@@ -691,33 +691,33 @@
       },
       {
         "platform": "tira",
-        "price": 335,
+        "price": 299,
         "original_price": 399,
-        "discount_pct": 16,
+        "discount_pct": 25.1,
         "url": "https://www.tirabeauty.com/plum-aha-bha/123012",
         "availability": true
       },
       {
         "platform": "amazon",
-        "price": 299,
+        "price": 349,
         "original_price": 399,
-        "discount_pct": 25.1,
+        "discount_pct": 12.5,
         "url": "https://www.amazon.in/dp/B08PLUM12",
         "availability": true
       },
       {
         "platform": "flipkart",
-        "price": 309,
+        "price": 369,
         "original_price": 399,
-        "discount_pct": 22.6,
+        "discount_pct": 7.5,
         "url": "https://www.flipkart.com/plum-aha-bha-cleanser/p/plm12",
         "availability": false
       },
       {
         "platform": "purplle",
-        "price": 319,
+        "price": 379,
         "original_price": 399,
-        "discount_pct": 20.1,
+        "discount_pct": 5,
         "url": "https://www.purplle.com/plum-aha-bha-cleanser/p/123012",
         "availability": true
       }
@@ -752,9 +752,9 @@
       },
       {
         "platform": "tira",
-        "price": 415,
+        "price": 405,
         "original_price": 495,
-        "discount_pct": 16.2,
+        "discount_pct": 18.2,
         "url": "https://www.tirabeauty.com/maybelline-fit-me/123013",
         "availability": true
       },
@@ -768,17 +768,17 @@
       },
       {
         "platform": "flipkart",
-        "price": 385,
+        "price": 445,
         "original_price": 495,
-        "discount_pct": 22.2,
+        "discount_pct": 10.1,
         "url": "https://www.flipkart.com/maybelline-fit-me-matte/p/mbl13",
         "availability": true
       },
       {
         "platform": "purplle",
-        "price": 399,
+        "price": 455,
         "original_price": 495,
-        "discount_pct": 19.4,
+        "discount_pct": 8.1,
         "url": "https://www.purplle.com/maybelline-fit-me-matte-poreless/p/123013",
         "availability": true
       }
@@ -805,41 +805,41 @@
     "platform_prices": [
       {
         "platform": "nykaa",
-        "price": 649,
+        "price": 639,
         "original_price": 799,
-        "discount_pct": 18.8,
+        "discount_pct": 20,
         "url": "https://www.nykaa.com/loreal-true-match-foundation/p/123014",
         "availability": true
       },
       {
         "platform": "tira",
-        "price": 669,
+        "price": 649,
         "original_price": 799,
-        "discount_pct": 16.3,
+        "discount_pct": 18.8,
         "url": "https://www.tirabeauty.com/loreal-true-match/123014",
         "availability": true
       },
       {
         "platform": "amazon",
-        "price": 619,
+        "price": 669,
         "original_price": 799,
-        "discount_pct": 22.5,
+        "discount_pct": 16.3,
         "url": "https://www.amazon.in/dp/B08LOREAL14",
         "availability": true
       },
       {
         "platform": "flipkart",
-        "price": 629,
+        "price": 619,
         "original_price": 799,
-        "discount_pct": 21.3,
+        "discount_pct": 22.5,
         "url": "https://www.flipkart.com/loreal-true-match/p/lor14",
         "availability": true
       },
       {
         "platform": "purplle",
-        "price": 649,
+        "price": 699,
         "original_price": 799,
-        "discount_pct": 18.8,
+        "discount_pct": 12.5,
         "url": "https://www.purplle.com/loreal-true-match-foundation/p/123014",
         "availability": true
       }
@@ -874,33 +874,33 @@
       },
       {
         "platform": "tira",
-        "price": 360,
+        "price": 355,
         "original_price": 399,
-        "discount_pct": 9.8,
+        "discount_pct": 11,
         "url": "https://www.tirabeauty.com/maybelline-concealer/123015",
         "availability": true
       },
       {
         "platform": "amazon",
-        "price": 325,
+        "price": 375,
         "original_price": 399,
-        "discount_pct": 18.5,
+        "discount_pct": 6,
         "url": "https://www.amazon.in/dp/B08MAYBELLINE15",
         "availability": true
       },
       {
         "platform": "flipkart",
-        "price": 335,
+        "price": 395,
         "original_price": 399,
-        "discount_pct": 16,
+        "discount_pct": 1,
         "url": "https://www.flipkart.com/maybelline-fit-me-concealer/p/mbl15",
         "availability": true
       },
       {
         "platform": "purplle",
-        "price": 345,
+        "price": 325,
         "original_price": 399,
-        "discount_pct": 13.5,
+        "discount_pct": 18.5,
         "url": "https://www.purplle.com/maybelline-fit-me-concealer/p/123015",
         "availability": true
       }
@@ -927,41 +927,41 @@
     "platform_prices": [
       {
         "platform": "nykaa",
-        "price": 2499,
+        "price": 2349,
         "original_price": 3200,
-        "discount_pct": 21.9,
+        "discount_pct": 26.6,
         "url": "https://www.nykaa.com/becca-glow-face-palette/p/123016",
         "availability": true
       },
       {
         "platform": "tira",
-        "price": 2599,
+        "price": 2379,
         "original_price": 3200,
-        "discount_pct": 18.8,
+        "discount_pct": 25.7,
         "url": "https://www.tirabeauty.com/becca-glow-palette/123016",
         "availability": true
       },
       {
         "platform": "amazon",
-        "price": 2349,
+        "price": 2399,
         "original_price": 3200,
-        "discount_pct": 26.6,
+        "discount_pct": 25,
         "url": "https://www.amazon.in/dp/B08BECCA16",
         "availability": false
       },
       {
         "platform": "flipkart",
-        "price": 2399,
+        "price": 2419,
         "original_price": 3200,
-        "discount_pct": 25,
+        "discount_pct": 24.4,
         "url": "https://www.flipkart.com/becca-glow-palette/p/bcc16",
         "availability": true
       },
       {
         "platform": "purplle",
-        "price": 2499,
+        "price": 2429,
         "original_price": 3200,
-        "discount_pct": 21.9,
+        "discount_pct": 24.1,
         "url": "https://www.purplle.com/becca-glow-face-palette/p/123016",
         "availability": true
       }
@@ -988,41 +988,41 @@
     "platform_prices": [
       {
         "platform": "nykaa",
-        "price": 549,
+        "price": 544,
         "original_price": 699,
-        "discount_pct": 21.5,
+        "discount_pct": 22.2,
         "url": "https://www.nykaa.com/sugar-smudge-me-not/p/123017",
         "availability": true
       },
       {
         "platform": "tira",
-        "price": 569,
+        "price": 524,
         "original_price": 699,
-        "discount_pct": 18.6,
+        "discount_pct": 25,
         "url": "https://www.tirabeauty.com/sugar-smudge-me-not/123017",
         "availability": true
       },
       {
         "platform": "amazon",
-        "price": 524,
+        "price": 574,
         "original_price": 699,
-        "discount_pct": 25,
+        "discount_pct": 17.9,
         "url": "https://www.amazon.in/dp/B08SUGAR17",
         "availability": true
       },
       {
         "platform": "flipkart",
-        "price": 539,
+        "price": 594,
         "original_price": 699,
-        "discount_pct": 22.9,
+        "discount_pct": 15,
         "url": "https://www.flipkart.com/sugar-smudge-me-not/p/sgr17",
         "availability": true
       },
       {
         "platform": "purplle",
-        "price": 549,
+        "price": 604,
         "original_price": 699,
-        "discount_pct": 21.5,
+        "discount_pct": 13.6,
         "url": "https://www.purplle.com/sugar-smudge-me-not-lipstick/p/123017",
         "availability": true
       }
@@ -1057,9 +1057,9 @@
       },
       {
         "platform": "tira",
-        "price": 365,
+        "price": 359,
         "original_price": 399,
-        "discount_pct": 8.5,
+        "discount_pct": 10,
         "url": "https://www.tirabeauty.com/lakme-9to5/123018",
         "availability": true
       },
@@ -1073,17 +1073,17 @@
       },
       {
         "platform": "flipkart",
-        "price": 339,
+        "price": 399,
         "original_price": 399,
-        "discount_pct": 15,
+        "discount_pct": 0,
         "url": "https://www.flipkart.com/lakme-9to5-primer/p/lkm18",
         "availability": true
       },
       {
         "platform": "purplle",
-        "price": 349,
+        "price": 399,
         "original_price": 399,
-        "discount_pct": 12.5,
+        "discount_pct": 0,
         "url": "https://www.purplle.com/lakme-9to5-matte/p/123018",
         "availability": true
       }
@@ -1110,41 +1110,41 @@
     "platform_prices": [
       {
         "platform": "nykaa",
-        "price": 549,
+        "price": 544,
         "original_price": 699,
-        "discount_pct": 21.5,
+        "discount_pct": 22.2,
         "url": "https://www.nykaa.com/maybelline-sky-high-mascara/p/123019",
         "availability": true
       },
       {
         "platform": "tira",
-        "price": 569,
+        "price": 554,
         "original_price": 699,
-        "discount_pct": 18.6,
+        "discount_pct": 20.7,
         "url": "https://www.tirabeauty.com/maybelline-sky-high/123019",
         "availability": true
       },
       {
         "platform": "amazon",
-        "price": 524,
+        "price": 574,
         "original_price": 699,
-        "discount_pct": 25,
+        "discount_pct": 17.9,
         "url": "https://www.amazon.in/dp/B08MAYBELLINE19",
         "availability": true
       },
       {
         "platform": "flipkart",
-        "price": 534,
+        "price": 524,
         "original_price": 699,
-        "discount_pct": 23.6,
+        "discount_pct": 25,
         "url": "https://www.flipkart.com/maybelline-sky-high-mascara/p/mbl19",
         "availability": true
       },
       {
         "platform": "purplle",
-        "price": 549,
+        "price": 604,
         "original_price": 699,
-        "discount_pct": 21.5,
+        "discount_pct": 13.6,
         "url": "https://www.purplle.com/maybelline-sky-high-mascara/p/123019",
         "availability": true
       }
@@ -1171,41 +1171,41 @@
     "platform_prices": [
       {
         "platform": "nykaa",
-        "price": 799,
+        "price": 789,
         "original_price": 1099,
-        "discount_pct": 27.3,
+        "discount_pct": 28.2,
         "url": "https://www.nykaa.com/myglamm-velvet-eyeshadow-palette/p/123020",
         "availability": true
       },
       {
         "platform": "tira",
-        "price": 829,
+        "price": 799,
         "original_price": 1099,
-        "discount_pct": 24.6,
+        "discount_pct": 27.3,
         "url": "https://www.tirabeauty.com/myglamm-eyeshadow/123020",
         "availability": true
       },
       {
         "platform": "amazon",
-        "price": 769,
+        "price": 819,
         "original_price": 1099,
-        "discount_pct": 30,
+        "discount_pct": 25.5,
         "url": "https://www.amazon.in/dp/B08MYGLAMM20",
         "availability": true
       },
       {
         "platform": "flipkart",
-        "price": 779,
+        "price": 839,
         "original_price": 1099,
-        "discount_pct": 29.1,
+        "discount_pct": 23.7,
         "url": "https://www.flipkart.com/myglamm-velvet-eyeshadow/p/myg20",
         "availability": true
       },
       {
         "platform": "purplle",
-        "price": 799,
+        "price": 769,
         "original_price": 1099,
-        "discount_pct": 27.3,
+        "discount_pct": 30,
         "url": "https://www.purplle.com/myglamm-velvet-love-eyeshadow/p/123020",
         "availability": true
       }

@@ -81,8 +81,21 @@ export function ProductCard({
   }
 
   return (
-    /* Flip card wrapper — fixed height to prevent layout shift */
-    <div className="group" style={{ perspective: '1000px', height: '380px' }}>
+    /* Flip card wrapper — fixed height, relative so wishlist button can float above both faces */
+    <div className="group relative" style={{ perspective: '1000px', height: '380px' }}>
+
+      {/* Wishlist button — outside the flip div so it stays on top on both faces */}
+      <button
+        onClick={handleWishlistClick}
+        aria-label={isWishlisted ? 'Remove from wishlist' : 'Add to wishlist'}
+        className="absolute right-2 top-2 z-20 cursor-pointer border-2 border-glow-black bg-white p-1.5 transition-colors duration-150 hover:bg-glow-primary hover:text-white"
+      >
+        <Heart
+          className={`h-3.5 w-3.5 transition-colors duration-150 ${
+            isWishlisted ? 'fill-glow-primary text-glow-primary' : 'text-glow-black'
+          }`}
+        />
+      </button>
 
       {/* Inner — rotates on hover */}
       <div className="relative h-full w-full transition-transform duration-500 [transform-style:preserve-3d] group-hover:[transform:rotateY(180deg)]">
@@ -92,7 +105,7 @@ export function ProductCard({
           <Link href={`/products/${product.id}`} className="block h-full">
             <div className="relative flex h-full flex-col border-2 border-glow-black bg-white">
 
-              {/* Image — fixed height instead of aspect-square */}
+              {/* Image */}
               <div className="relative h-44 shrink-0 overflow-hidden border-b-2 border-glow-black">
                 <Image
                   src={product.image_url}
@@ -110,19 +123,6 @@ export function ProductCard({
                 <div className="absolute left-0 top-3">
                   <TrendingBadge score={product.trending_score} />
                 </div>
-
-                {/* Wishlist — top right */}
-                <button
-                  onClick={handleWishlistClick}
-                  aria-label={isWishlisted ? 'Remove from wishlist' : 'Add to wishlist'}
-                  className="absolute right-2 top-2 z-10 cursor-pointer border-2 border-glow-black bg-white p-1.5 transition-colors duration-150 hover:bg-glow-primary hover:text-white"
-                >
-                  <Heart
-                    className={`h-3.5 w-3.5 transition-colors duration-150 ${
-                      isWishlisted ? 'fill-glow-primary text-glow-primary' : 'text-glow-black'
-                    }`}
-                  />
-                </button>
               </div>
 
               {/* Info */}
@@ -184,9 +184,7 @@ export function ProductCard({
                   return (
                     <tr
                       key={platform}
-                      className={`border-b border-stone-100 ${
-                        isLowest ? 'bg-glow-primary/10' : ''
-                      }`}
+                      className={`border-b border-stone-100 ${isLowest ? 'bg-glow-primary/10' : ''}`}
                     >
                       <td className="py-1.5 pr-2">
                         <a
