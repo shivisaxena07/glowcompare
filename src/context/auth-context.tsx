@@ -9,7 +9,7 @@ interface AuthContextValue {
   session: Session | null
   loading: boolean
   wishlistIds: Set<string>
-  signUp: (email: string, password: string) => Promise<{ error: string | null }>
+  signUp: (email: string, password: string) => Promise<{ error: string | null; needsConfirmation: boolean }>
   signIn: (email: string, password: string) => Promise<{ error: string | null }>
   signOut: () => Promise<void>
   addToWishlistIds: (productId: string) => void
@@ -57,8 +57,8 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
 
   const signUp = async (email: string, password: string) => {
     const redirectTo = `${window.location.origin}/auth/callback`
-    const { error } = await supabase.auth.signUp({ email, password, options: { emailRedirectTo: redirectTo } })
-    return { error: error?.message ?? null }
+    const { data, error } = await supabase.auth.signUp({ email, password, options: { emailRedirectTo: redirectTo } })
+    return { error: error?.message ?? null, needsConfirmation: !error && !data.session }
   }
 
   const signIn = async (email: string, password: string) => {

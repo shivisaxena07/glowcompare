@@ -67,3 +67,17 @@
 **Also required (manual — Supabase Dashboard):** Add the production Vercel URL (e.g. `https://glowcompare.vercel.app/auth/callback`) to the **Redirect URLs** allowlist under Supabase → Auth → URL Configuration. Without this Supabase rejects the redirect even with the code fix.
 **Files:** `src/context/auth-context.tsx`, `app/auth/callback/route.ts`
 **Status:** ✅ Fixed
+
+---
+
+## B-007 — Sign-up bypasses email verification entirely
+**Reported:** April 2026 — Shivi observed after signing up; was logged in immediately with no email sent
+**Symptom:** After submitting the sign-up form, the user was logged in directly without receiving or needing to verify a confirmation email.
+**Root cause (1 — Supabase Dashboard):** "Enable email confirmations" was toggled off in Supabase → Authentication → Providers → Email. Supabase immediately creates an active session without sending a confirmation email.
+**Root cause (2 — code):** `signUp()` in `auth-context.tsx` didn't return whether a session was created, so the signup page always auto-redirected after 2s regardless of whether confirmation was pending.
+**Fix:**
+1. `auth-context.tsx` — `signUp()` now returns `needsConfirmation: boolean` (true when Supabase returns a user but no session, i.e. email confirmation is required).
+2. `app/auth/signup/page.tsx` — auto-redirect only fires when `needsConfirmation` is false; otherwise the "check your email" message stays on screen.
+**Also required (manual — Supabase Dashboard):** Supabase → Authentication → Providers → Email → toggle **"Enable email confirmations"** ON. Without this, Supabase never sends the email and the code fix has no effect.
+**Files:** `src/context/auth-context.tsx`, `app/auth/signup/page.tsx`
+**Status:** ✅ Fixed

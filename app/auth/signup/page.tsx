@@ -25,7 +25,7 @@ export default function SignUpPage() {
     }
 
     setLoading(true)
-    const { error } = await signUp(email, password)
+    const { error, needsConfirmation } = await signUp(email, password)
     setLoading(false)
 
     if (error) {
@@ -34,7 +34,9 @@ export default function SignUpPage() {
     }
 
     setSuccess(true)
-    setTimeout(() => router.push('/'), 2000)
+    if (!needsConfirmation) {
+      setTimeout(() => router.push('/'), 2000)
+    }
   }
 
   return (
