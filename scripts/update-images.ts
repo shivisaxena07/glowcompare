@@ -12,19 +12,19 @@ const IMAGE_MAP: Record<string, string> = {
   '0005': '1556228720-195a672e8a03',     // Mamaearth Ubtan — face wash bottle
   '0006': '1601049676869-702ea24cfd58',  // Cetaphil — gentle skincare bottle
   '0007': '1616394584738-fc6e612e71b9',  // Re'equil Sunscreen — skincare products
-  '0008': '1504674900247-0877df9cc836',  // Lakme Sun Expert — beauty product
+  '0008': '1616394584738-fc6e612e71b9',  // Lakme Sun Expert — sunscreen / SPF tube (same type as Re'equil)
   '0009': '1520923642038-b4259acecbd7',  // Plum Toner — skincare bottle close-up
   '0010': '1556228453-efd6c1ff04f6',     // The Ordinary Eye Cream — skincare cream
   '0011': '1583241475880-083f84372725',  // The Ordinary HA Serum — serum bottle
   '0012': '1599305090598-fe179d501227',  // Plum AHA BHA Cleanser — skincare products
   '0013': '1522335789203-aabd1fc54bc9',  // Maybelline Foundation — makeup products
-  '0014': '1596462502278-27bfdc403348',  // L'Oreal True Match — makeup palette
+  '0014': '1522335789203-aabd1fc54bc9',  // L'Oreal True Match — makeup / foundation products
   '0015': '1522337360788-8b13dee7a37e',  // Maybelline Concealer — makeup close-up
   '0016': '1571781926291-c477ebfd024b',  // BECCA Palette — eye makeup palette
   '0017': '1512496015851-a90fb38ba796',  // Sugar Cosmetics Lipstick — lipstick
   '0018': '1543269865-cbf427effbad',     // Lakme Lip Color — beauty / lips
   '0019': '1556228578-0d85b1a4d571',     // Maybelline Mascara — beauty product set
-  '0020': '1556228453-efd6c1ff04f6',     // MyGlamm Eyeshadow Palette — makeup (reused)
+  '0020': '1596462502278-27bfdc403348',  // MyGlamm Eyeshadow Palette — makeup palette
 }
 
 const filePath = join(process.cwd(), 'data/seed/products.json')
