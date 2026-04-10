@@ -6,7 +6,7 @@
     "category": "skincare",
     "sub_category": "serum",
     "description": "A lightweight, water-based serum with 10% Niacinamide and 1% Zinc PCA that visibly reduces blemishes, controls sebum production, and minimises the appearance of pores. Suitable for all skin types including sensitive skin.",
-    "image_url": "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?w=400&h=400&fit=crop&q=80",
+    "image_url": "/images/products/minimalist-niacinamide-serum.jpg",
     "ingredients_summary": "10% Niacinamide brightens and reduces pore appearance. 1% Zinc PCA controls excess oil and targets blemishes. Allantoin soothes irritation.",
     "trending_score": 92.5,
     "platform_prices": [
@@ -67,7 +67,7 @@
     "category": "skincare",
     "sub_category": "serum",
     "description": "A potent 20% Vitamin C serum with Vitamin E and Ferulic Acid that brightens skin tone, fades dark spots, and protects against environmental damage. Best used in the morning before sunscreen.",
-    "image_url": "https://images.unsplash.com/photo-1570554886111-e80fcca6a029?w=400&h=400&fit=crop&q=80",
+    "image_url": "/images/products/minimalist-vitamin-c-serum.jpg",
     "ingredients_summary": "20% Ascorbic Acid (Vitamin C) brightens and evens skin tone. Vitamin E and Ferulic Acid boost stability and antioxidant protection.",
     "trending_score": 84.25,
     "platform_prices": [
@@ -128,7 +128,7 @@
     "category": "skincare",
     "sub_category": "moisturiser",
     "description": "A refreshing, lightweight gel-cream moisturiser infused with watermelon extract and hyaluronic acid. Provides intense hydration without greasiness, leaving skin plump and dewy. Perfect for oily and combination skin types.",
-    "image_url": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=400&h=400&fit=crop&q=80",
+    "image_url": "/images/products/dot-and-key-watermelon-moisturiser.jpg",
     "ingredients_summary": "Watermelon Extract is packed with vitamins A, B, and C to nourish. Hyaluronic Acid provides deep, long-lasting hydration. Niacinamide brightens and refines pores.",
     "trending_score": 78.5,
     "platform_prices": [
@@ -189,7 +189,7 @@
     "category": "skincare",
     "sub_category": "moisturiser",
     "description": "An ultra-lightweight gel moisturiser that absorbs instantly without leaving any sticky residue. Formulated with Hyaluron Booster that attracts and locks in moisture for 24-hour hydration. Great for oily and acne-prone skin.",
-    "image_url": "https://images.unsplash.com/photo-1612817288484-6f916006741a?w=400&h=400&fit=crop&q=80",
+    "image_url": "/images/products/ponds-light-gel-moisturiser.jpg",
     "ingredients_summary": "Hyaluron Booster (Hyaluronic Acid) provides 24-hour deep hydration. Vitamin E acts as an antioxidant. Water-gel base is non-comedogenic and oil-free.",
     "trending_score": 71,
     "platform_prices": [
@@ -250,7 +250,7 @@
     "category": "skincare",
     "sub_category": "cleanser",
     "description": "A gentle face wash inspired by traditional Indian Ubtan. Formulated with natural turmeric, saffron, and walnut to remove impurities while brightening skin tone. Free from sulphates, parabens, and artificial fragrance.",
-    "image_url": "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=400&h=400&fit=crop&q=80",
+    "image_url": "/images/products/mamaearth-ubtan-face-wash.jpg",
     "ingredients_summary": "Turmeric has anti-inflammatory and brightening properties. Saffron evens skin tone and adds a natural glow. Walnut acts as a gentle exfoliant to remove dead skin cells.",
     "trending_score": 76.25,
     "platform_prices": [
@@ -311,7 +311,7 @@
     "category": "skincare",
     "sub_category": "cleanser",
     "description": "A mild, soap-free cleanser clinically proven to gently cleanse without stripping the skin's natural moisture. Suitable for sensitive, dry, and combination skin. Dermatologist-recommended for daily use.",
-    "image_url": "https://images.unsplash.com/photo-1601049676869-702ea24cfd58?w=400&h=400&fit=crop&q=80",
+    "image_url": "/images/products/cetaphil-gentle-cleanser.jpg",
     "ingredients_summary": "Glycerin is a powerful humectant that retains moisture. Niacinamide strengthens the skin barrier. Soap-free and fragrance-free formula is ideal for sensitive skin.",
     "trending_score": 68.75,
     "platform_prices": [
@@ -372,7 +372,7 @@
     "category": "skincare",
     "sub_category": "sunscreen",
     "description": "A lightweight, dry-touch sunscreen with SPF 50 PA+++ that leaves no white cast. Provides broad-spectrum UVA/UVB protection while controlling shine. Ideal for Indian skin tones and humid weather conditions.",
-    "image_url": "https://images.unsplash.com/photo-1616394584738-fc6e612e71b9?w=400&h=400&fit=crop&q=80",
+    "image_url": "/images/products/reequil-sunscreen.jpg",
     "ingredients_summary": "Hybrid filter system combines chemical and physical UV blockers for full-spectrum protection. Dimethicone creates a matte, dry-touch finish. Allantoin soothes sun-exposed skin.",
     "trending_score": 88,
     "platform_prices": [
@@ -433,7 +433,7 @@
     "category": "skincare",
     "sub_category": "sunscreen",
     "description": "A non-greasy, everyday sunscreen with SPF 50 PA+++ that shields skin from UVA and UVB rays. Light texture absorbs quickly and works well under makeup. Enriched with Vitamin E for added skin nourishment.",
-    "image_url": "https://images.unsplash.com/photo-1616394584738-fc6e612e71b9?w=400&h=400&fit=crop&q=80",
+    "image_url": "/images/products/lakme-sun-expert-sunscreen.jpg",
     "ingredients_summary": "SPF 50 PA+++ provides both UVA and UVB broad-spectrum protection. Vitamin E acts as an antioxidant, protecting against free radical damage from UV rays.",
     "trending_score": 65.5,
     "platform_prices": [
@@ -494,7 +494,7 @@
     "category": "skincare",
     "sub_category": "toner",
     "description": "A refreshing, alcohol-free toner with green tea extract that controls oil, tightens pores, and preps skin for the next steps in your routine. Vegan and 100% cruelty-free. Great for oily and acne-prone skin.",
-    "image_url": "https://images.unsplash.com/photo-1520923642038-b4259acecbd7?w=400&h=400&fit=crop&q=80",
+    "image_url": "/images/products/plum-green-tea-toner.jpg",
     "ingredients_summary": "Green Tea Extract is rich in antioxidants that fight acne-causing bacteria and reduce inflammation. Glycolic Acid gently exfoliates and refines pore appearance. No alcohol, no parabens.",
     "trending_score": 73.75,
     "platform_prices": [
@@ -555,7 +555,7 @@
     "category": "skincare",
     "sub_category": "eye_cream",
     "description": "A targeted eye cream formulated with a multi-peptide blend that reduces the appearance of fine lines, crow's feet, and puffiness around the eye area. Lightweight formula absorbs fast without migration.",
-    "image_url": "https://images.unsplash.com/photo-1556228453-efd6c1ff04f6?w=400&h=400&fit=crop&q=80",
+    "image_url": "/images/products/the-ordinary-eye-cream.jpg",
     "ingredients_summary": "Argireline (Acetyl Hexapeptide-3) relaxes facial muscles to reduce expression lines. Leuphasyl works synergistically with Argireline. Hyaluronic Acid plumps and hydrates the delicate eye area.",
     "trending_score": 80.5,
     "platform_prices": [
@@ -616,7 +616,7 @@
     "category": "skincare",
     "sub_category": "serum",
     "description": "A hydration support formula combining low, medium, and high molecular weight hyaluronic acid with Pro-Vitamin B5. Visibly plumps skin and reduces the appearance of dry fine lines. Suitable for all skin types.",
-    "image_url": "https://images.unsplash.com/photo-1583241475880-083f84372725?w=400&h=400&fit=crop&q=80",
+    "image_url": "/images/products/the-ordinary-ha-serum.jpg",
     "ingredients_summary": "Multi-weight Hyaluronic Acid (2%) hydrates at multiple layers of the skin. Pro-Vitamin B5 soothes and smoothens. This fragrance-free formula is ideal for all skin types, including sensitive.",
     "trending_score": 82,
     "platform_prices": [
@@ -677,7 +677,7 @@
     "category": "skincare",
     "sub_category": "cleanser",
     "description": "A gentle yet effective exfoliating cleanser with AHA and BHA acids that clears clogged pores, reduces blackheads, and reveals brighter skin. Made with 100% vegan ingredients, free from SLS and parabens.",
-    "image_url": "https://images.unsplash.com/photo-1599305090598-fe179d501227?w=400&h=400&fit=crop&q=80",
+    "image_url": "/images/products/plum-aha-bha-cleanser.jpg",
     "ingredients_summary": "Glycolic Acid (AHA) exfoliates dead skin cells for a brighter complexion. Salicylic Acid (BHA) penetrates pores to clear congestion and reduce breakouts. Green Tea soothes post-cleanse.",
     "trending_score": 69,
     "platform_prices": [
@@ -738,7 +738,7 @@
     "category": "makeup",
     "sub_category": "foundation",
     "description": "A full-coverage, shine-free foundation with micro-powders that blur pores for a natural matte finish. Available in 40 shades to match a wide range of Indian skin tones. Lightweight feel that lasts all day.",
-    "image_url": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?w=400&h=400&fit=crop&q=80",
+    "image_url": "/images/products/maybelline-fit-me-foundation.jpg",
     "ingredients_summary": "Micro-powder technology absorbs excess oil and blurs the appearance of pores. Buildable coverage formula contains skin-conditioning agents to prevent the dry, cakey look.",
     "trending_score": 86.25,
     "platform_prices": [
@@ -799,7 +799,7 @@
     "category": "makeup",
     "sub_category": "foundation",
     "description": "A skin-like foundation with True Match technology that perfectly adapts to your skin tone and undertone. Medium-to-full coverage with a natural finish. Dermatologist-tested, non-comedogenic, and SPF 17 protection.",
-    "image_url": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?w=400&h=400&fit=crop&q=80",
+    "image_url": "/images/products/loreal-true-match-foundation.jpg",
     "ingredients_summary": "Micro-fine colour-matching pigments adapt to your unique skin undertone (cool, warm, or neutral). SPF 17 provides light daily sun protection. Oil-free, fragrance-free formula.",
     "trending_score": 75.75,
     "platform_prices": [
@@ -860,7 +860,7 @@
     "category": "makeup",
     "sub_category": "concealer",
     "description": "A lightweight, full-coverage concealer that blends seamlessly to hide dark circles, blemishes, and imperfections. Natural finish that doesn't crease or cake. Available in 12 shades for all skin tones.",
-    "image_url": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=400&h=400&fit=crop&q=80",
+    "image_url": "/images/products/maybelline-fit-me-concealer.jpg",
     "ingredients_summary": "Micro-fine pigments provide seamless, buildable coverage. Skin-conditioning agents keep the under-eye area hydrated to prevent dryness and creasing throughout the day.",
     "trending_score": 79,
     "platform_prices": [
@@ -921,7 +921,7 @@
     "category": "makeup",
     "sub_category": "blush",
     "description": "A flushed and illuminated face palette with a peachy blush, champagne highlighter, and a bronzing veil. Buildable pigment that photographs beautifully and suits a range of skin tones. Long-lasting glow without glitter.",
-    "image_url": "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?w=400&h=400&fit=crop&q=80",
+    "image_url": "/images/products/becca-glow-palette.jpg",
     "ingredients_summary": "Prismatic Pearl Technology delivers intense, multi-dimensional light reflection. Skin-loving pigments are finely milled for effortless blending. Free from parabens and phthalates.",
     "trending_score": 72,
     "platform_prices": [
@@ -982,7 +982,7 @@
     "category": "makeup",
     "sub_category": "lipstick",
     "description": "A transfer-proof, smudge-proof liquid lipstick that dries down to a comfortable matte finish. Stays put through meals, drinks, and long days. Available in 60+ shades from nudes to bolds. 100% vegan and cruelty-free.",
-    "image_url": "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?w=400&h=400&fit=crop&q=80",
+    "image_url": "/images/products/sugar-smudge-me-not-lipstick.jpg",
     "ingredients_summary": "Film-forming polymers create a long-wearing, transfer-resistant finish. Vitamin E conditions lips to prevent excessive dryness. Lightweight formula applies smoothly and dries quickly.",
     "trending_score": 90,
     "platform_prices": [
@@ -1043,7 +1043,7 @@
     "category": "makeup",
     "sub_category": "lipstick",
     "description": "A 2-in-1 primer and matte lip color that provides rich, long-lasting color for up to 16 hours. Primer base ensures smooth application and enhanced staying power. Intensely pigmented in one stroke.",
-    "image_url": "https://images.unsplash.com/photo-1543269865-cbf427effbad?w=400&h=400&fit=crop&q=80",
+    "image_url": "/images/products/lakme-9to5-lip-color.jpg",
     "ingredients_summary": "Built-in lip primer smoothes and primes for better color adhesion. Rich matte pigments deliver intense color. Conditioning agents keep lips comfortable throughout wear.",
     "trending_score": 67.5,
     "platform_prices": [
@@ -1104,7 +1104,7 @@
     "category": "makeup",
     "sub_category": "mascara",
     "description": "A lengthening mascara with a flexible film formula and a unique brush that fans out lashes from root to tip for sky-high length. Buildable formula for natural to dramatic looks. Infused with bamboo extract.",
-    "image_url": "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=400&h=400&fit=crop&q=80",
+    "image_url": "/images/products/maybelline-sky-high-mascara.jpg",
     "ingredients_summary": "Flexible film formula stretches with lashes for sky-high length without clumping. Bamboo Extract strengthens lashes. Wax base coats every lash from root to tip for a fanned-out effect.",
     "trending_score": 94,
     "platform_prices": [
@@ -1165,7 +1165,7 @@
     "category": "makeup",
     "sub_category": "eyeshadow",
     "description": "A 9-pan eyeshadow palette with a curated mix of matte and shimmer shades ranging from everyday neutrals to bold evening hues. Highly pigmented, blendable formula that lasts up to 12 hours without fallout.",
-    "image_url": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=400&h=400&fit=crop&q=80",
+    "image_url": "/images/products/myglamm-velvet-love-eyeshadow.jpg",
     "ingredients_summary": "Ultra-fine pigments with a velvet-smooth texture for effortless blending. Mica and cosmetic-grade glitter create dimensional shimmer. Silicone-based binders ensure crease-free, long-wear performance.",
     "trending_score": 77.25,
     "platform_prices": [
